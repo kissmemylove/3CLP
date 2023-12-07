@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8" />
+		<!-- 新 Bootstrap5 核心 CSS 文件 -->
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+		<link rel="stylesheet" type="text/css" href="css/mycss.css">
+		<script type="text/javascript" src="https://api.map.baidu.com/api?v=1.0&&type=webgl&ak=mpAtSdEEa0kg8Rk8dIvEXGCOODcplAch"></script>
+		<!--  popper.min.js 用于弹窗、提示、下拉菜单 -->
+		<script src="https://cdn.staticfile.org/popper.js/2.9.3/umd/popper.min.js"></script> 
+		<!-- 最新的 Bootstrap5 核心 JavaScript 文件 -->
+		<script src="js/bootstrap.js"></script>
+		<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+		<script type="text/javascript" src="js/myjs.js"></script>
+		<title>3CLP</title>
+	</head>
+	<body>
+		<div id="readmeDiv" class="content" style="font-size: 20px;">
+				 <h3>
+					 1.How to obtain the cleavage sites of coronavirus 3CL protease?
+				 </h3>
+				<p>Please input the protein sequence in Fasta format(Your protein name should not contain *) in our Home interface.Please ensure your protein sequence contains Q(Glutamine),otherwise your protein sequence cannot find valid predicted sites.</p>
+				<h3>
+					2.How to build the RF model of predicting the cleavage sites?
+				</h3>
+				<p>The RF model trid all combination of AA indexes.Finally,model used the AA indexes of MEEJ800102, BIOV880102 and FASG760101, which referred to “the retention coefficient in high-pressure liquid chromatography”, “Information value for accessibility” and “Molecular weight”, respectively as features. The RF model performed great performance(AUC=0.961).Our training data for 3CLP was available for downloading in <span style="font-weight:bold;">Data</span>  interface.</p>
+				<h3>
+					3.How to obtain the cleavage sites on human proteins?
+				 </h3>
+				 <p>You can query the cleavage sites on human proteins in <span style="font-weight:bold;">Data</span> interface.1827 potential cleavage sites on human proteins in the table.</p>
+			</div>
+		  
+	</body>
+</html>

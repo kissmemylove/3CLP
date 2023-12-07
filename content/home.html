@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8" />
+		<!-- 新 Bootstrap5 核心 CSS 文件 -->
+		<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
+		<link rel="stylesheet" type="text/css" href="../css/mycss.css">
+		<script type="text/javascript" src="https://api.map.baidu.com/api?v=1.0&&type=webgl&ak=mpAtSdEEa0kg8Rk8dIvEXGCOODcplAch"></script>
+		<!--  popper.min.js 用于弹窗、提示、下拉菜单 -->
+		<script src="https://cdn.staticfile.org/popper.js/2.9.3/umd/popper.min.js"></script> 
+		<!-- 最新的 Bootstrap5 核心 JavaScript 文件 -->
+		<script src="../js/bootstrap.js"></script>
+		<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+		<script type="text/javascript" src="../js/myjs.js"></script>
+		<title>3CLP</title>
+	</head>
+	<body>
+		<div id="homeDiv" class="content" style="font-size: 20px;">
+			<div class="row" >
+				<div>
+					<div class="col" >
+						<li>
+							3CLP is a random forest model for predicting the cleavage sites of the coronavirus 3CL protease.
+						</li>
+						<li>
+						The input of 3CLP is the protein sequence of either coronavirus polyprotein, or the host proteins; the output is the potential cleavage sites and the corresponding probability predicted by a random forest model
+						</li>
+					</div>
+				</div>	
+				
+			</div>
+			<div class="row" >
+				<div class="col-sm-7 col-md-5 col-lg-6 col-xl-7 p-3" >
+					<div id="mycontent">
+						<p>Input the protein sequence in Fasta format(<span style="color: red;border-bottom: 1px solid;cursor:pointer;" id="example" onclick="openExample()">Example</span>)</p>
+						<textarea   class="inputcontent" id="inputcontent" style="font-size: 15px;"></textarea>
+					</div>
+					<div id="bperrDiv" style="display: none;">
+						Invalidate FASTA sequence. .
+						<button type="button" class="btn btn-info" style="margin-top: 30%;" onclick="back()">back</button>
+					</div>
+					<div  class="row" style="margin-top: 2%;">
+						<div class="col-3">
+							<button type="button" class="btn btn-info" onclick="$('#fileInput').click();">Select File</button>
+							<input type="file" name="file" onchange="changeFile(event)" id="fileInput" style="display: none;"/>
+				
+						</div>
+						<div class="col-3">
+							<input type="reset" class="btn btn-info" value="Clear" onclick="clearFile()">
+						</div>
+						<div class="col-3">
+							<input type="submit" class="btn btn-info" value="Submit" onclick="goAnalysis()">
+						</div>
+								
+				
+					</div>
+				</div>
+				<div class="col-sm-5 col-md-6 col-lg-4 col-xl-5 p-3  text-white">
+					<!--3D地图-->
+					<div style="margin-top:45px">
+						<script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=5x4vsmia458&amp;m=0&amp;h=230&amp;c=007eff&amp;r=0" async="async"></script>
+					</div>
+					<div style="margin-top: 40px;">
+						<span style="color:#203880;font-weight: bold; " >NEWS:</span>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</body>
+</html>

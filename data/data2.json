@@ -1,0 +1,6762 @@
+[
+ {
+  "Uniprot ID": "A0A075B6H9",
+  "Position of Q (Gln)": "Q103",
+  "Motif": "SSLQ↓SE"
+ },
+ {
+  "Uniprot ID": "A0A075B6K6",
+  "Position of Q (Gln)": "Q102",
+  "Motif": "SNLQ↓SD"
+ },
+ {
+  "Uniprot ID": "A0A075B6S4",
+  "Position of Q (Gln)": "Q77",
+  "Motif": "SSLQ↓SG"
+ },
+ {
+  "Uniprot ID": "A0A075B6S5",
+  "Position of Q (Gln)": "Q77",
+  "Motif": "STLQ↓SG"
+ },
+ {
+  "Uniprot ID": "A0A075B6S9",
+  "Position of Q (Gln)": "Q77",
+  "Motif": "SNLQ↓SG"
+ },
+ {
+  "Uniprot ID": "A0A087WSZ0",
+  "Position of Q (Gln)": "Q77",
+  "Motif": "STLQ↓SG"
+ },
+ {
+  "Uniprot ID": "A0A087WV53",
+  "Position of Q (Gln)": "Q29",
+  "Motif": "PQVQ↓SA"
+ },
+ {
+  "Uniprot ID": "A0A0B4J1Z2",
+  "Position of Q (Gln)": "Q77",
+  "Motif": "SSLQ↓SG"
+ },
+ {
+  "Uniprot ID": "A0A0B4J2F2",
+  "Position of Q (Gln)": "Q553",
+  "Motif": "PVLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "A0A0C4DH67",
+  "Position of Q (Gln)": "Q75",
+  "Motif": "STLQ↓SG"
+ },
+ {
+  "Uniprot ID": "A0A0C4DH69",
+  "Position of Q (Gln)": "Q77",
+  "Motif": "STLQ↓SG"
+ },
+ {
+  "Uniprot ID": "A0A0C4DH72",
+  "Position of Q (Gln)": "Q77",
+  "Motif": "SSLQ↓SG"
+ },
+ {
+  "Uniprot ID": "A0A0C4DH73",
+  "Position of Q (Gln)": "Q77",
+  "Motif": "SSLQ↓SG"
+ },
+ {
+  "Uniprot ID": "A0A1B0GTH6",
+  "Position of Q (Gln)": "Q217",
+  "Motif": "TLLQ↓SK"
+ },
+ {
+  "Uniprot ID": "A0A1B0GUU1",
+  "Position of Q (Gln)": "Q440",
+  "Motif": "ASLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "A0A1W2PPM1",
+  "Position of Q (Gln)": "Q355",
+  "Motif": "SQLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "A0A2R8YFM6",
+  "Position of Q (Gln)": "Q8",
+  "Motif": "VRLQ↓SS"
+ },
+ {
+  "Uniprot ID": "A0A3B3IT52",
+  "Position of Q (Gln)": "Q32",
+  "Motif": "PSVQ↓SV"
+ },
+ {
+  "Uniprot ID": "A0PJX4",
+  "Position of Q (Gln)": "Q35",
+  "Motif": "VDVQ↓GN"
+ },
+ {
+  "Uniprot ID": "A1A5D9",
+  "Position of Q (Gln)": "Q296",
+  "Motif": "ASLQ↓SE"
+ },
+ {
+  "Uniprot ID": "A1IGU5",
+  "Position of Q (Gln)": "Q624",
+  "Motif": "VSLQ↓AG"
+ },
+ {
+  "Uniprot ID": "A1L170",
+  "Position of Q (Gln)": "Q14",
+  "Motif": "PKLQ↓AS"
+ },
+ {
+  "Uniprot ID": "A2A3K4",
+  "Position of Q (Gln)": "Q581",
+  "Motif": "SALQ↓SE"
+ },
+ {
+  "Uniprot ID": "A2RU48",
+  "Position of Q (Gln)": "Q189",
+  "Motif": "TQLQ↓AA"
+ },
+ {
+  "Uniprot ID": "A2RUR9",
+  "Position of Q (Gln)": "Q1046",
+  "Motif": "SQLQ↓SE"
+ },
+ {
+  "Uniprot ID": "A2VCK2",
+  "Position of Q (Gln)": "Q170",
+  "Motif": "VKLQ↓SG"
+ },
+ {
+  "Uniprot ID": "A3KMH1",
+  "Position of Q (Gln)": "Q1459",
+  "Motif": "TDLQ↓SK"
+ },
+ {
+  "Uniprot ID": "A4D1B5",
+  "Position of Q (Gln)": "Q110",
+  "Motif": "SLVQ↓ST"
+ },
+ {
+  "Uniprot ID": "A4D2H0",
+  "Position of Q (Gln)": "Q367",
+  "Motif": "ASLQ↓SE"
+ },
+ {
+  "Uniprot ID": "A4D2P6",
+  "Position of Q (Gln)": "Q1195",
+  "Motif": "SDLQ↓AG"
+ },
+ {
+  "Uniprot ID": "A4FU28",
+  "Position of Q (Gln)": "Q367",
+  "Motif": "ASLQ↓SE"
+ },
+ {
+  "Uniprot ID": "A5D8W1",
+  "Position of Q (Gln)": "Q800",
+  "Motif": "ASLQ↓SD"
+ },
+ {
+  "Uniprot ID": "A6NC97",
+  "Position of Q (Gln)": "Q327",
+  "Motif": "SSLQ↓SI"
+ },
+ {
+  "Uniprot ID": "A6NC98",
+  "Position of Q (Gln)": "Q998",
+  "Motif": "AALQ↓GQ"
+ },
+ {
+  "Uniprot ID": "A6NE52",
+  "Position of Q (Gln)": "Q1244",
+  "Motif": "SDLQ↓GQ"
+ },
+ {
+  "Uniprot ID": "A6NF01",
+  "Position of Q (Gln)": "Q267",
+  "Motif": "PTLQ↓AE"
+ },
+ {
+  "Uniprot ID": "A6NFQ2",
+  "Position of Q (Gln)": "Q679",
+  "Motif": "TNLQ↓AL"
+ },
+ {
+  "Uniprot ID": "A6NJ46",
+  "Position of Q (Gln)": "Q6",
+  "Motif": "SNLQ↓GT"
+ },
+ {
+  "Uniprot ID": "A6NJI9",
+  "Position of Q (Gln)": "Q26",
+  "Motif": "TALQ↓SS"
+ },
+ {
+  "Uniprot ID": "A6NJZ7",
+  "Position of Q (Gln)": "Q606",
+  "Motif": "TQLQ↓AA"
+ },
+ {
+  "Uniprot ID": "A6NKB5",
+  "Position of Q (Gln)": "Q641",
+  "Motif": "PDLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "A6NKT7",
+  "Position of Q (Gln)": "Q267",
+  "Motif": "SALQ↓SA"
+ },
+ {
+  "Uniprot ID": "A6NMK8",
+  "Position of Q (Gln)": "Q178\/Q391",
+  "Motif": "PKVQ↓SN\/TKLQ↓SN"
+ },
+ {
+  "Uniprot ID": "A6NNA5",
+  "Position of Q (Gln)": "Q222",
+  "Motif": "AVLQ↓SA"
+ },
+ {
+  "Uniprot ID": "A6NNM3",
+  "Position of Q (Gln)": "Q606",
+  "Motif": "TQLQ↓AA"
+ },
+ {
+  "Uniprot ID": "A7E2U8",
+  "Position of Q (Gln)": "Q58",
+  "Motif": "SDLQ↓AG"
+ },
+ {
+  "Uniprot ID": "A7KAX9",
+  "Position of Q (Gln)": "Q632",
+  "Motif": "AALQ↓GK"
+ },
+ {
+  "Uniprot ID": "A8CG34",
+  "Position of Q (Gln)": "Q660",
+  "Motif": "PTLQ↓AE"
+ },
+ {
+  "Uniprot ID": "A8K0R7",
+  "Position of Q (Gln)": "Q563",
+  "Motif": "PQLQ↓AL"
+ },
+ {
+  "Uniprot ID": "A8MTI9",
+  "Position of Q (Gln)": "Q232",
+  "Motif": "SRLQ↓AV"
+ },
+ {
+  "Uniprot ID": "A8MW95",
+  "Position of Q (Gln)": "Q195",
+  "Motif": "ADLQ↓AA"
+ },
+ {
+  "Uniprot ID": "A8MZA4",
+  "Position of Q (Gln)": "Q270",
+  "Motif": "AKLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "A8MZF0",
+  "Position of Q (Gln)": "Q88",
+  "Motif": "TTVQ↓AA"
+ },
+ {
+  "Uniprot ID": "B3KU38",
+  "Position of Q (Gln)": "Q371",
+  "Motif": "SRLQ↓SG"
+ },
+ {
+  "Uniprot ID": "B4DYI2",
+  "Position of Q (Gln)": "Q358",
+  "Motif": "AHLQ↓SS"
+ },
+ {
+  "Uniprot ID": "B5MCY1",
+  "Position of Q (Gln)": "Q920",
+  "Motif": "VDLQ↓SS"
+ },
+ {
+  "Uniprot ID": "C9JE40",
+  "Position of Q (Gln)": "Q207",
+  "Motif": "VQLQ↓SA"
+ },
+ {
+  "Uniprot ID": "H0YM25",
+  "Position of Q (Gln)": "Q232",
+  "Motif": "AKLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "H7BZ55",
+  "Position of Q (Gln)": "Q256",
+  "Motif": "ADLQ↓AD"
+ },
+ {
+  "Uniprot ID": "M0R2J8",
+  "Position of Q (Gln)": "Q465",
+  "Motif": "PQLQ↓AE"
+ },
+ {
+  "Uniprot ID": "O00159",
+  "Position of Q (Gln)": "Q995",
+  "Motif": "VVLQ↓SD"
+ },
+ {
+  "Uniprot ID": "O00214",
+  "Position of Q (Gln)": "Q158",
+  "Motif": "SDLQ↓ST"
+ },
+ {
+  "Uniprot ID": "O00222",
+  "Position of Q (Gln)": "Q866",
+  "Motif": "ATMQ↓SK"
+ },
+ {
+  "Uniprot ID": "O00231",
+  "Position of Q (Gln)": "Q207",
+  "Motif": "PKLQ↓AT"
+ },
+ {
+  "Uniprot ID": "O00479",
+  "Position of Q (Gln)": "Q79",
+  "Motif": "STLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "O00482",
+  "Position of Q (Gln)": "Q319",
+  "Motif": "PQVQ↓AK"
+ },
+ {
+  "Uniprot ID": "O00505",
+  "Position of Q (Gln)": "Q93",
+  "Motif": "SAVQ↓AA"
+ },
+ {
+  "Uniprot ID": "O00507",
+  "Position of Q (Gln)": "Q1200\/Q1204",
+  "Motif": "VVLQ↓SA\/SALQ↓SI"
+ },
+ {
+  "Uniprot ID": "O00626",
+  "Position of Q (Gln)": "Q20",
+  "Motif": "VALQ↓AT"
+ },
+ {
+  "Uniprot ID": "O00629",
+  "Position of Q (Gln)": "Q93",
+  "Motif": "SAVQ↓AA"
+ },
+ {
+  "Uniprot ID": "O00716",
+  "Position of Q (Gln)": "Q75",
+  "Motif": "SSLQ↓SG"
+ },
+ {
+  "Uniprot ID": "O14490",
+  "Position of Q (Gln)": "Q701",
+  "Motif": "TAVQ↓AD"
+ },
+ {
+  "Uniprot ID": "O14497",
+  "Position of Q (Gln)": "Q185\/Q512",
+  "Motif": "AALQ↓SG\/PQLQ↓SS"
+ },
+ {
+  "Uniprot ID": "O14578",
+  "Position of Q (Gln)": "Q894",
+  "Motif": "TALQ↓AA"
+ },
+ {
+  "Uniprot ID": "O14599",
+  "Position of Q (Gln)": "Q63",
+  "Motif": "TLLQ↓SK"
+ },
+ {
+  "Uniprot ID": "O14681",
+  "Position of Q (Gln)": "Q98\/Q256",
+  "Motif": "PVLQ↓SV\/TAMQ↓SS"
+ },
+ {
+  "Uniprot ID": "O14686",
+  "Position of Q (Gln)": "Q4180",
+  "Motif": "PVLQ↓SG"
+ },
+ {
+  "Uniprot ID": "O14715",
+  "Position of Q (Gln)": "Q267",
+  "Motif": "SALQ↓SA"
+ },
+ {
+  "Uniprot ID": "O14717",
+  "Position of Q (Gln)": "Q170",
+  "Motif": "AKLQ↓SE"
+ },
+ {
+  "Uniprot ID": "O14727",
+  "Position of Q (Gln)": "Q583",
+  "Motif": "AKLQ↓AK"
+ },
+ {
+  "Uniprot ID": "O14777",
+  "Position of Q (Gln)": "Q304",
+  "Motif": "ASLQ↓GD"
+ },
+ {
+  "Uniprot ID": "O14786",
+  "Position of Q (Gln)": "Q266",
+  "Motif": "SVLQ↓SS"
+ },
+ {
+  "Uniprot ID": "O14787",
+  "Position of Q (Gln)": "Q595",
+  "Motif": "TALQ↓SG"
+ },
+ {
+  "Uniprot ID": "O14795",
+  "Position of Q (Gln)": "Q1385",
+  "Motif": "PDLQ↓SL"
+ },
+ {
+  "Uniprot ID": "O14863",
+  "Position of Q (Gln)": "Q70",
+  "Motif": "PTLQ↓AD"
+ },
+ {
+  "Uniprot ID": "O14924",
+  "Position of Q (Gln)": "Q699",
+  "Motif": "PSVQ↓SC"
+ },
+ {
+  "Uniprot ID": "O14976",
+  "Position of Q (Gln)": "Q637",
+  "Motif": "VTVQ↓GD"
+ },
+ {
+  "Uniprot ID": "O14978",
+  "Position of Q (Gln)": "Q282",
+  "Motif": "PSVQ↓SC"
+ },
+ {
+  "Uniprot ID": "O14981",
+  "Position of Q (Gln)": "Q191",
+  "Motif": "PTLQ↓AA"
+ },
+ {
+  "Uniprot ID": "O15027",
+  "Position of Q (Gln)": "Q287",
+  "Motif": "SHLQ↓SG"
+ },
+ {
+  "Uniprot ID": "O15066",
+  "Position of Q (Gln)": "Q549\/Q685",
+  "Motif": "SKLQ↓AV\/PKVQ↓AA"
+ },
+ {
+  "Uniprot ID": "O15090",
+  "Position of Q (Gln)": "Q1058",
+  "Motif": "PSLQ↓SN"
+ },
+ {
+  "Uniprot ID": "O15118",
+  "Position of Q (Gln)": "Q811",
+  "Motif": "TSVQ↓AS"
+ },
+ {
+  "Uniprot ID": "O15211",
+  "Position of Q (Gln)": "Q359",
+  "Motif": "SALQ↓SS"
+ },
+ {
+  "Uniprot ID": "O15230",
+  "Position of Q (Gln)": "Q2216\/Q3297",
+  "Motif": "ADLQ↓SQ\/PALQ↓AQ"
+ },
+ {
+  "Uniprot ID": "O15296",
+  "Position of Q (Gln)": "Q279",
+  "Motif": "TSLQ↓AE"
+ },
+ {
+  "Uniprot ID": "O15327",
+  "Position of Q (Gln)": "Q202",
+  "Motif": "TDVQ↓GQ"
+ },
+ {
+  "Uniprot ID": "O15409",
+  "Position of Q (Gln)": "Q613",
+  "Motif": "ASLQ↓AA"
+ },
+ {
+  "Uniprot ID": "O15511",
+  "Position of Q (Gln)": "Q56",
+  "Motif": "AALQ↓AA"
+ },
+ {
+  "Uniprot ID": "O15527",
+  "Position of Q (Gln)": "Q185",
+  "Motif": "PSLQ↓AL"
+ },
+ {
+  "Uniprot ID": "O43143",
+  "Position of Q (Gln)": "Q788",
+  "Motif": "AKLQ↓SK"
+ },
+ {
+  "Uniprot ID": "O43149",
+  "Position of Q (Gln)": "Q149",
+  "Motif": "ANLQ↓GE"
+ },
+ {
+  "Uniprot ID": "O43156",
+  "Position of Q (Gln)": "Q259",
+  "Motif": "SKVQ↓AK"
+ },
+ {
+  "Uniprot ID": "O43255",
+  "Position of Q (Gln)": "Q199",
+  "Motif": "TTLQ↓GE"
+ },
+ {
+  "Uniprot ID": "O43264",
+  "Position of Q (Gln)": "Q54",
+  "Motif": "PSMQ↓SA"
+ },
+ {
+  "Uniprot ID": "O43281",
+  "Position of Q (Gln)": "Q451",
+  "Motif": "SALQ↓AA"
+ },
+ {
+  "Uniprot ID": "O43295",
+  "Position of Q (Gln)": "Q457",
+  "Motif": "TKLQ↓AK"
+ },
+ {
+  "Uniprot ID": "O43310",
+  "Position of Q (Gln)": "Q344",
+  "Motif": "TLLQ↓SS"
+ },
+ {
+  "Uniprot ID": "O43353",
+  "Position of Q (Gln)": "Q315",
+  "Motif": "TKLQ↓SV"
+ },
+ {
+  "Uniprot ID": "O43379",
+  "Position of Q (Gln)": "Q1497",
+  "Motif": "PDLQ↓AL"
+ },
+ {
+  "Uniprot ID": "O43427",
+  "Position of Q (Gln)": "Q53",
+  "Motif": "AVLQ↓SD"
+ },
+ {
+  "Uniprot ID": "O43548",
+  "Position of Q (Gln)": "Q13",
+  "Motif": "TDLQ↓SS"
+ },
+ {
+  "Uniprot ID": "O43752",
+  "Position of Q (Gln)": "Q112",
+  "Motif": "SSVQ↓AL"
+ },
+ {
+  "Uniprot ID": "O43889",
+  "Position of Q (Gln)": "Q283",
+  "Motif": "PALQ↓SE"
+ },
+ {
+  "Uniprot ID": "O43896",
+  "Position of Q (Gln)": "Q31\/Q289",
+  "Motif": "VSMQ↓GN\/ADMQ↓SK"
+ },
+ {
+  "Uniprot ID": "O43934",
+  "Position of Q (Gln)": "Q144",
+  "Motif": "ALLQ↓SS"
+ },
+ {
+  "Uniprot ID": "O60229",
+  "Position of Q (Gln)": "Q1746",
+  "Motif": "ANLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "O60281",
+  "Position of Q (Gln)": "Q931",
+  "Motif": "PLLQ↓SS"
+ },
+ {
+  "Uniprot ID": "O60287",
+  "Position of Q (Gln)": "Q913",
+  "Motif": "VQLQ↓AT"
+ },
+ {
+  "Uniprot ID": "O60291",
+  "Position of Q (Gln)": "Q157",
+  "Motif": "PSLQ↓SE"
+ },
+ {
+  "Uniprot ID": "O60318",
+  "Position of Q (Gln)": "Q1707",
+  "Motif": "PVLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "O60333",
+  "Position of Q (Gln)": "Q712\/Q1125",
+  "Motif": "SKLQ↓AL\/TVLQ↓AS"
+ },
+ {
+  "Uniprot ID": "O60343",
+  "Position of Q (Gln)": "Q444",
+  "Motif": "AALQ↓SA"
+ },
+ {
+  "Uniprot ID": "O60427",
+  "Position of Q (Gln)": "Q171\/Q361",
+  "Motif": "SAVQ↓AQ\/TQLQ↓AT"
+ },
+ {
+  "Uniprot ID": "O60431",
+  "Position of Q (Gln)": "Q155",
+  "Motif": "TNLQ↓SL"
+ },
+ {
+  "Uniprot ID": "O60437",
+  "Position of Q (Gln)": "Q53",
+  "Motif": "AKMQ↓SD"
+ },
+ {
+  "Uniprot ID": "O60449",
+  "Position of Q (Gln)": "Q723",
+  "Motif": "PDLQ↓GS"
+ },
+ {
+  "Uniprot ID": "O60488",
+  "Position of Q (Gln)": "Q578",
+  "Motif": "VKLQ↓AG"
+ },
+ {
+  "Uniprot ID": "O60522",
+  "Position of Q (Gln)": "Q162",
+  "Motif": "SNLQ↓GK"
+ },
+ {
+  "Uniprot ID": "O60603",
+  "Position of Q (Gln)": "Q79",
+  "Motif": "VNLQ↓AL"
+ },
+ {
+  "Uniprot ID": "O60613",
+  "Position of Q (Gln)": "Q27",
+  "Motif": "TVLQ↓AV"
+ },
+ {
+  "Uniprot ID": "O60729",
+  "Position of Q (Gln)": "Q452\/Q456",
+  "Motif": "VILQ↓SS\/SSVQ↓SC"
+ },
+ {
+  "Uniprot ID": "O60732",
+  "Position of Q (Gln)": "Q16\/Q425\/Q792",
+  "Motif": "SLLQ↓SS\/SILQ↓SS\/SLLQ↓SS"
+ },
+ {
+  "Uniprot ID": "O60840",
+  "Position of Q (Gln)": "Q1618",
+  "Motif": "SALQ↓AG"
+ },
+ {
+  "Uniprot ID": "O75044",
+  "Position of Q (Gln)": "Q468",
+  "Motif": "TKLQ↓AK"
+ },
+ {
+  "Uniprot ID": "O75054",
+  "Position of Q (Gln)": "Q1069\/Q1116",
+  "Motif": "TVLQ↓AS\/PTLQ↓SI"
+ },
+ {
+  "Uniprot ID": "O75116",
+  "Position of Q (Gln)": "Q1124",
+  "Motif": "SQLQ↓AL"
+ },
+ {
+  "Uniprot ID": "O75127",
+  "Position of Q (Gln)": "Q229",
+  "Motif": "SALQ↓SA"
+ },
+ {
+  "Uniprot ID": "O75128",
+  "Position of Q (Gln)": "Q980",
+  "Motif": "SLVQ↓SS"
+ },
+ {
+  "Uniprot ID": "O75151",
+  "Position of Q (Gln)": "Q805",
+  "Motif": "ANLQ↓AS"
+ },
+ {
+  "Uniprot ID": "O75161",
+  "Position of Q (Gln)": "Q779",
+  "Motif": "PAVQ↓AS"
+ },
+ {
+  "Uniprot ID": "O75398",
+  "Position of Q (Gln)": "Q549",
+  "Motif": "VTVQ↓AD"
+ },
+ {
+  "Uniprot ID": "O75592",
+  "Position of Q (Gln)": "Q2488",
+  "Motif": "PSLQ↓SE"
+ },
+ {
+  "Uniprot ID": "O75618",
+  "Position of Q (Gln)": "Q211",
+  "Motif": "TALQ↓GN"
+ },
+ {
+  "Uniprot ID": "O75771",
+  "Position of Q (Gln)": "Q324",
+  "Motif": "ATLQ↓GD"
+ },
+ {
+  "Uniprot ID": "O75791",
+  "Position of Q (Gln)": "Q268",
+  "Motif": "VQLQ↓AA"
+ },
+ {
+  "Uniprot ID": "O75818",
+  "Position of Q (Gln)": "Q223",
+  "Motif": "PVLQ↓SS"
+ },
+ {
+  "Uniprot ID": "O75886",
+  "Position of Q (Gln)": "Q469",
+  "Motif": "SNLQ↓SA"
+ },
+ {
+  "Uniprot ID": "O75928",
+  "Position of Q (Gln)": "Q168",
+  "Motif": "SLVQ↓SS"
+ },
+ {
+  "Uniprot ID": "O75949",
+  "Position of Q (Gln)": "Q151",
+  "Motif": "TKLQ↓SL"
+ },
+ {
+  "Uniprot ID": "O75952",
+  "Position of Q (Gln)": "Q282",
+  "Motif": "VTLQ↓AD"
+ },
+ {
+  "Uniprot ID": "O76000",
+  "Position of Q (Gln)": "Q159",
+  "Motif": "SVLQ↓SS"
+ },
+ {
+  "Uniprot ID": "O76041",
+  "Position of Q (Gln)": "Q121\/Q334",
+  "Motif": "TQLQ↓SE\/AVLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "O76094",
+  "Position of Q (Gln)": "Q331",
+  "Motif": "ASLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "O94766",
+  "Position of Q (Gln)": "Q55",
+  "Motif": "SQLQ↓AE"
+ },
+ {
+  "Uniprot ID": "O94830",
+  "Position of Q (Gln)": "Q5\/Q610",
+  "Motif": "SSVQ↓SQ\/PALQ↓AS"
+ },
+ {
+  "Uniprot ID": "O94842",
+  "Position of Q (Gln)": "Q425",
+  "Motif": "SVLQ↓AA"
+ },
+ {
+  "Uniprot ID": "O94868",
+  "Position of Q (Gln)": "Q26",
+  "Motif": "TKLQ↓AK"
+ },
+ {
+  "Uniprot ID": "O94911",
+  "Position of Q (Gln)": "Q181",
+  "Motif": "VALQ↓AA"
+ },
+ {
+  "Uniprot ID": "O94916",
+  "Position of Q (Gln)": "Q1242",
+  "Motif": "VAMQ↓SN"
+ },
+ {
+  "Uniprot ID": "O94967",
+  "Position of Q (Gln)": "Q872",
+  "Motif": "TDLQ↓GD"
+ },
+ {
+  "Uniprot ID": "O94973",
+  "Position of Q (Gln)": "Q912",
+  "Motif": "PNLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "O94989",
+  "Position of Q (Gln)": "Q403",
+  "Motif": "PAVQ↓AS"
+ },
+ {
+  "Uniprot ID": "O95251",
+  "Position of Q (Gln)": "Q560",
+  "Motif": "STLQ↓AL"
+ },
+ {
+  "Uniprot ID": "O95264",
+  "Position of Q (Gln)": "Q220",
+  "Motif": "SILQ↓SS"
+ },
+ {
+  "Uniprot ID": "O95342",
+  "Position of Q (Gln)": "Q657",
+  "Motif": "VTLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "O95359",
+  "Position of Q (Gln)": "Q1308",
+  "Motif": "PAVQ↓AS"
+ },
+ {
+  "Uniprot ID": "O95382",
+  "Position of Q (Gln)": "Q157",
+  "Motif": "PDLQ↓AL"
+ },
+ {
+  "Uniprot ID": "O95425",
+  "Position of Q (Gln)": "Q558\/Q783",
+  "Motif": "PQLQ↓AL\/ARLQ↓AS"
+ },
+ {
+  "Uniprot ID": "O95486",
+  "Position of Q (Gln)": "Q17\/Q621",
+  "Motif": "ASLQ↓AQ\/PALQ↓AA"
+ },
+ {
+  "Uniprot ID": "O95487",
+  "Position of Q (Gln)": "Q795",
+  "Motif": "PALQ↓AA"
+ },
+ {
+  "Uniprot ID": "O95544",
+  "Position of Q (Gln)": "Q312",
+  "Motif": "TTVQ↓GD"
+ },
+ {
+  "Uniprot ID": "O95573",
+  "Position of Q (Gln)": "Q587",
+  "Motif": "VKLQ↓AG"
+ },
+ {
+  "Uniprot ID": "O95600",
+  "Position of Q (Gln)": "Q245",
+  "Motif": "SALQ↓SL"
+ },
+ {
+  "Uniprot ID": "O95613",
+  "Position of Q (Gln)": "Q1617",
+  "Motif": "STLQ↓ST"
+ },
+ {
+  "Uniprot ID": "O95696",
+  "Position of Q (Gln)": "Q501",
+  "Motif": "SSLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "O95714",
+  "Position of Q (Gln)": "Q883\/Q4299",
+  "Motif": "STVQ↓SA\/AALQ↓GK"
+ },
+ {
+  "Uniprot ID": "O95715",
+  "Position of Q (Gln)": "Q90",
+  "Motif": "PKLQ↓ST"
+ },
+ {
+  "Uniprot ID": "O95758",
+  "Position of Q (Gln)": "Q158",
+  "Motif": "SAVQ↓SG"
+ },
+ {
+  "Uniprot ID": "O95832",
+  "Position of Q (Gln)": "Q78",
+  "Motif": "STLQ↓AT"
+ },
+ {
+  "Uniprot ID": "P00352",
+  "Position of Q (Gln)": "Q448",
+  "Motif": "SALQ↓AG"
+ },
+ {
+  "Uniprot ID": "P00451",
+  "Position of Q (Gln)": "Q1675",
+  "Motif": "TTLQ↓SD"
+ },
+ {
+  "Uniprot ID": "P00973",
+  "Position of Q (Gln)": "Q384",
+  "Motif": "STLQ↓AA"
+ },
+ {
+  "Uniprot ID": "P01019",
+  "Position of Q (Gln)": "Q185",
+  "Motif": "SALQ↓AV"
+ },
+ {
+  "Uniprot ID": "P01024",
+  "Position of Q (Gln)": "Q109\/Q126",
+  "Motif": "VTVQ↓AT\/VSLQ↓SG"
+ },
+ {
+  "Uniprot ID": "P01266",
+  "Position of Q (Gln)": "Q1118",
+  "Motif": "ARLQ↓AS"
+ },
+ {
+  "Uniprot ID": "P01597",
+  "Position of Q (Gln)": "Q77",
+  "Motif": "SSLQ↓SG"
+ },
+ {
+  "Uniprot ID": "P01599",
+  "Position of Q (Gln)": "Q77",
+  "Motif": "SSLQ↓SG"
+ },
+ {
+  "Uniprot ID": "P01601",
+  "Position of Q (Gln)": "Q77",
+  "Motif": "SSLQ↓SG"
+ },
+ {
+  "Uniprot ID": "P01611",
+  "Position of Q (Gln)": "Q77",
+  "Motif": "SSLQ↓SG"
+ },
+ {
+  "Uniprot ID": "P01624",
+  "Position of Q (Gln)": "Q99",
+  "Motif": "SSLQ↓SE"
+ },
+ {
+  "Uniprot ID": "P01857",
+  "Position of Q (Gln)": "Q58",
+  "Motif": "AVLQ↓SS"
+ },
+ {
+  "Uniprot ID": "P01859",
+  "Position of Q (Gln)": "Q58",
+  "Motif": "AVLQ↓SS"
+ },
+ {
+  "Uniprot ID": "P01860",
+  "Position of Q (Gln)": "Q58",
+  "Motif": "AVLQ↓SS"
+ },
+ {
+  "Uniprot ID": "P01861",
+  "Position of Q (Gln)": "Q58",
+  "Motif": "AVLQ↓SS"
+ },
+ {
+  "Uniprot ID": "P02538",
+  "Position of Q (Gln)": "Q406",
+  "Motif": "ANLQ↓AA"
+ },
+ {
+  "Uniprot ID": "P04004",
+  "Position of Q (Gln)": "Q103",
+  "Motif": "SDLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "P04114",
+  "Position of Q (Gln)": "Q1551",
+  "Motif": "SDLQ↓SG"
+ },
+ {
+  "Uniprot ID": "P04259",
+  "Position of Q (Gln)": "Q406",
+  "Motif": "ANLQ↓AA"
+ },
+ {
+  "Uniprot ID": "P04264",
+  "Position of Q (Gln)": "Q302",
+  "Motif": "VDLQ↓AK"
+ },
+ {
+  "Uniprot ID": "P04350",
+  "Position of Q (Gln)": "Q8",
+  "Motif": "VHLQ↓AG"
+ },
+ {
+  "Uniprot ID": "P04430",
+  "Position of Q (Gln)": "Q77",
+  "Motif": "SSLQ↓SG"
+ },
+ {
+  "Uniprot ID": "P04432",
+  "Position of Q (Gln)": "Q77",
+  "Motif": "SSLQ↓SG"
+ },
+ {
+  "Uniprot ID": "P04921",
+  "Position of Q (Gln)": "Q110",
+  "Motif": "AALQ↓GD"
+ },
+ {
+  "Uniprot ID": "P05067",
+  "Position of Q (Gln)": "Q481",
+  "Motif": "TALQ↓AV"
+ },
+ {
+  "Uniprot ID": "P05231",
+  "Position of Q (Gln)": "Q180",
+  "Motif": "TKLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "P05937",
+  "Position of Q (Gln)": "Q7",
+  "Motif": "SHLQ↓SS"
+ },
+ {
+  "Uniprot ID": "P06132",
+  "Position of Q (Gln)": "Q302",
+  "Motif": "VTLQ↓GN"
+ },
+ {
+  "Uniprot ID": "P06312",
+  "Position of Q (Gln)": "Q105",
+  "Motif": "SSLQ↓AE"
+ },
+ {
+  "Uniprot ID": "P07204",
+  "Position of Q (Gln)": "Q274",
+  "Motif": "AALQ↓AD"
+ },
+ {
+  "Uniprot ID": "P07306",
+  "Position of Q (Gln)": "Q145",
+  "Motif": "AALQ↓GN"
+ },
+ {
+  "Uniprot ID": "P07307",
+  "Position of Q (Gln)": "Q90",
+  "Motif": "AQLQ↓AE"
+ },
+ {
+  "Uniprot ID": "P07332",
+  "Position of Q (Gln)": "Q378",
+  "Motif": "AKLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "P08123",
+  "Position of Q (Gln)": "Q1293",
+  "Motif": "VILQ↓GS"
+ },
+ {
+  "Uniprot ID": "P08F94",
+  "Position of Q (Gln)": "Q1307",
+  "Motif": "TAMQ↓GE"
+ },
+ {
+  "Uniprot ID": "P09105",
+  "Position of Q (Gln)": "Q123",
+  "Motif": "PALQ↓AS"
+ },
+ {
+  "Uniprot ID": "P0C025",
+  "Position of Q (Gln)": "Q100",
+  "Motif": "VILQ↓SS"
+ },
+ {
+  "Uniprot ID": "P0C0L4",
+  "Position of Q (Gln)": "Q334",
+  "Motif": "TDLQ↓GL"
+ },
+ {
+  "Uniprot ID": "P0C0L5",
+  "Position of Q (Gln)": "Q334",
+  "Motif": "TDLQ↓GL"
+ },
+ {
+  "Uniprot ID": "P0C2Y1",
+  "Position of Q (Gln)": "Q415",
+  "Motif": "TTLQ↓GS"
+ },
+ {
+  "Uniprot ID": "P0C5K7",
+  "Position of Q (Gln)": "Q53",
+  "Motif": "ADLQ↓SE"
+ },
+ {
+  "Uniprot ID": "P0C7I6",
+  "Position of Q (Gln)": "Q44",
+  "Motif": "SQLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "P0C7M6",
+  "Position of Q (Gln)": "Q97",
+  "Motif": "VKLQ↓SC"
+ },
+ {
+  "Uniprot ID": "P0C7U9",
+  "Position of Q (Gln)": "Q89",
+  "Motif": "TALQ↓SR"
+ },
+ {
+  "Uniprot ID": "P0CF97",
+  "Position of Q (Gln)": "Q220",
+  "Motif": "TRLQ↓SG"
+ },
+ {
+  "Uniprot ID": "P0CG22",
+  "Position of Q (Gln)": "Q77",
+  "Motif": "ATLQ↓GE"
+ },
+ {
+  "Uniprot ID": "P0CG41",
+  "Position of Q (Gln)": "Q367",
+  "Motif": "ASLQ↓SE"
+ },
+ {
+  "Uniprot ID": "P0DJD0",
+  "Position of Q (Gln)": "Q258",
+  "Motif": "SALQ↓SA"
+ },
+ {
+  "Uniprot ID": "P0DJD1",
+  "Position of Q (Gln)": "Q266",
+  "Motif": "SALQ↓SA"
+ },
+ {
+  "Uniprot ID": "P0DKV0",
+  "Position of Q (Gln)": "Q364",
+  "Motif": "AHLQ↓SS"
+ },
+ {
+  "Uniprot ID": "P0DOX5",
+  "Position of Q (Gln)": "Q177",
+  "Motif": "AVLQ↓SS"
+ },
+ {
+  "Uniprot ID": "P0DPB3",
+  "Position of Q (Gln)": "Q295",
+  "Motif": "SRLQ↓SG"
+ },
+ {
+  "Uniprot ID": "P0DSN7",
+  "Position of Q (Gln)": "Q77",
+  "Motif": "SNLQ↓SG"
+ },
+ {
+  "Uniprot ID": "P10244",
+  "Position of Q (Gln)": "Q348",
+  "Motif": "VQLQ↓AS"
+ },
+ {
+  "Uniprot ID": "P10253",
+  "Position of Q (Gln)": "Q757",
+  "Motif": "PVLQ↓AG"
+ },
+ {
+  "Uniprot ID": "P10586",
+  "Position of Q (Gln)": "Q1004",
+  "Motif": "PSIQ↓SR"
+ },
+ {
+  "Uniprot ID": "P10636",
+  "Position of Q (Gln)": "Q605",
+  "Motif": "SNVQ↓SK"
+ },
+ {
+  "Uniprot ID": "P11169",
+  "Position of Q (Gln)": "Q198",
+  "Motif": "AILQ↓SA"
+ },
+ {
+  "Uniprot ID": "P11474",
+  "Position of Q (Gln)": "Q262",
+  "Motif": "SVLQ↓SV"
+ },
+ {
+  "Uniprot ID": "P11487",
+  "Position of Q (Gln)": "Q226",
+  "Motif": "SHVQ↓AS"
+ },
+ {
+  "Uniprot ID": "P11532",
+  "Position of Q (Gln)": "Q2064",
+  "Motif": "AALQ↓SA"
+ },
+ {
+  "Uniprot ID": "P11597",
+  "Position of Q (Gln)": "Q389",
+  "Motif": "TTVQ↓AS"
+ },
+ {
+  "Uniprot ID": "P12036",
+  "Position of Q (Gln)": "Q288",
+  "Motif": "STLQ↓SE"
+ },
+ {
+  "Uniprot ID": "P12645",
+  "Position of Q (Gln)": "Q71",
+  "Motif": "STVQ↓AA"
+ },
+ {
+  "Uniprot ID": "P12755",
+  "Position of Q (Gln)": "Q582",
+  "Motif": "AALQ↓AK"
+ },
+ {
+  "Uniprot ID": "P12830",
+  "Position of Q (Gln)": "Q351",
+  "Motif": "ADLQ↓GE"
+ },
+ {
+  "Uniprot ID": "P13533",
+  "Position of Q (Gln)": "Q1740",
+  "Motif": "TQLQ↓SE"
+ },
+ {
+  "Uniprot ID": "P13535",
+  "Position of Q (Gln)": "Q1741",
+  "Motif": "SQLQ↓SE"
+ },
+ {
+  "Uniprot ID": "P14652",
+  "Position of Q (Gln)": "Q327",
+  "Motif": "PSLQ↓GS"
+ },
+ {
+  "Uniprot ID": "P14859",
+  "Position of Q (Gln)": "Q62\/Q94",
+  "Motif": "TSLQ↓AA\/PSVQ↓AA"
+ },
+ {
+  "Uniprot ID": "P15104",
+  "Position of Q (Gln)": "Q69",
+  "Motif": "STLQ↓SE"
+ },
+ {
+  "Uniprot ID": "P15391",
+  "Position of Q (Gln)": "Q386",
+  "Motif": "SDVQ↓AD"
+ },
+ {
+  "Uniprot ID": "P16157",
+  "Position of Q (Gln)": "Q1472",
+  "Motif": "TALQ↓SI"
+ },
+ {
+  "Uniprot ID": "P17066",
+  "Position of Q (Gln)": "Q86",
+  "Motif": "TTVQ↓SD"
+ },
+ {
+  "Uniprot ID": "P17252",
+  "Position of Q (Gln)": "Q669",
+  "Motif": "PILQ↓SA"
+ },
+ {
+  "Uniprot ID": "P17480",
+  "Position of Q (Gln)": "Q672",
+  "Motif": "TTLQ↓SK"
+ },
+ {
+  "Uniprot ID": "P18850",
+  "Position of Q (Gln)": "Q294",
+  "Motif": "PVLQ↓ST"
+ },
+ {
+  "Uniprot ID": "P18887",
+  "Position of Q (Gln)": "Q217",
+  "Motif": "ATLQ↓AS"
+ },
+ {
+  "Uniprot ID": "P19021",
+  "Position of Q (Gln)": "Q571",
+  "Motif": "AVLQ↓SS"
+ },
+ {
+  "Uniprot ID": "P19113",
+  "Position of Q (Gln)": "Q507",
+  "Motif": "TSLQ↓SV"
+ },
+ {
+  "Uniprot ID": "P19827",
+  "Position of Q (Gln)": "Q353",
+  "Motif": "ANLQ↓AA"
+ },
+ {
+  "Uniprot ID": "P20062",
+  "Position of Q (Gln)": "Q64",
+  "Motif": "SSLQ↓AG"
+ },
+ {
+  "Uniprot ID": "P20290",
+  "Position of Q (Gln)": "Q59\/Q124",
+  "Motif": "AKLQ↓AQ\/PKVQ↓AS"
+ },
+ {
+  "Uniprot ID": "P20702",
+  "Position of Q (Gln)": "Q651",
+  "Motif": "TLVQ↓SN"
+ },
+ {
+  "Uniprot ID": "P20929",
+  "Position of Q (Gln)": "Q1365\/Q1853\/Q2097\/Q2341",
+  "Motif": "AKLQ↓SD\/AKMQ↓SD\/AKMQ↓SD\/AKMQ↓SE"
+ },
+ {
+  "Uniprot ID": "P20930",
+  "Position of Q (Gln)": "Q3914",
+  "Motif": "SHVQ↓SS"
+ },
+ {
+  "Uniprot ID": "P21359",
+  "Position of Q (Gln)": "Q2767",
+  "Motif": "PALQ↓SQ"
+ },
+ {
+  "Uniprot ID": "P22102",
+  "Position of Q (Gln)": "Q822",
+  "Motif": "SNLQ↓AL"
+ },
+ {
+  "Uniprot ID": "P22670",
+  "Position of Q (Gln)": "Q152",
+  "Motif": "TSVQ↓AK"
+ },
+ {
+  "Uniprot ID": "P22695",
+  "Position of Q (Gln)": "Q372",
+  "Motif": "TDVQ↓AA"
+ },
+ {
+  "Uniprot ID": "P22888",
+  "Position of Q (Gln)": "Q235",
+  "Motif": "TKLQ↓AL"
+ },
+ {
+  "Uniprot ID": "P22894",
+  "Position of Q (Gln)": "Q375",
+  "Motif": "SSVQ↓AI"
+ },
+ {
+  "Uniprot ID": "P23229",
+  "Position of Q (Gln)": "Q120",
+  "Motif": "VTVQ↓SQ"
+ },
+ {
+  "Uniprot ID": "P23508",
+  "Position of Q (Gln)": "Q285",
+  "Motif": "TRLQ↓SV"
+ },
+ {
+  "Uniprot ID": "P23634",
+  "Position of Q (Gln)": "Q1235",
+  "Motif": "SSLQ↓SL"
+ },
+ {
+  "Uniprot ID": "P25054",
+  "Position of Q (Gln)": "Q2500",
+  "Motif": "SSVQ↓AG"
+ },
+ {
+  "Uniprot ID": "P26010",
+  "Position of Q (Gln)": "Q444",
+  "Motif": "VSLQ↓AT"
+ },
+ {
+  "Uniprot ID": "P26651",
+  "Position of Q (Gln)": "Q275",
+  "Motif": "PSVQ↓SL"
+ },
+ {
+  "Uniprot ID": "P26998",
+  "Position of Q (Gln)": "Q192",
+  "Motif": "PQLQ↓SV"
+ },
+ {
+  "Uniprot ID": "P28039",
+  "Position of Q (Gln)": "Q63",
+  "Motif": "STVQ↓AS"
+ },
+ {
+  "Uniprot ID": "P28906",
+  "Position of Q (Gln)": "Q111",
+  "Motif": "SSVQ↓SQ"
+ },
+ {
+  "Uniprot ID": "P30153",
+  "Position of Q (Gln)": "Q557",
+  "Motif": "STLQ↓SE"
+ },
+ {
+  "Uniprot ID": "P30414",
+  "Position of Q (Gln)": "Q817",
+  "Motif": "SSVQ↓AT"
+ },
+ {
+  "Uniprot ID": "P31152",
+  "Position of Q (Gln)": "Q92",
+  "Motif": "TDLQ↓GE"
+ },
+ {
+  "Uniprot ID": "P32004",
+  "Position of Q (Gln)": "Q256",
+  "Motif": "VALQ↓GQ"
+ },
+ {
+  "Uniprot ID": "P32519",
+  "Position of Q (Gln)": "Q416",
+  "Motif": "SSVQ↓SI"
+ },
+ {
+  "Uniprot ID": "P33032",
+  "Position of Q (Gln)": "Q235",
+  "Motif": "TSMQ↓GA"
+ },
+ {
+  "Uniprot ID": "P33991",
+  "Position of Q (Gln)": "Q130",
+  "Motif": "VDLQ↓SD"
+ },
+ {
+  "Uniprot ID": "P34897",
+  "Position of Q (Gln)": "Q324",
+  "Motif": "PSLQ↓GG"
+ },
+ {
+  "Uniprot ID": "P34949",
+  "Position of Q (Gln)": "Q195",
+  "Motif": "SSLQ↓SC"
+ },
+ {
+  "Uniprot ID": "P35556",
+  "Position of Q (Gln)": "Q1912",
+  "Motif": "VDLQ↓GS"
+ },
+ {
+  "Uniprot ID": "P35573",
+  "Position of Q (Gln)": "Q40",
+  "Motif": "PTLQ↓GK"
+ },
+ {
+  "Uniprot ID": "P35749",
+  "Position of Q (Gln)": "Q1075",
+  "Motif": "ADLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "P36269",
+  "Position of Q (Gln)": "Q194",
+  "Motif": "PSLQ↓AS"
+ },
+ {
+  "Uniprot ID": "P36578",
+  "Position of Q (Gln)": "Q362",
+  "Motif": "AALQ↓AK"
+ },
+ {
+  "Uniprot ID": "P39086",
+  "Position of Q (Gln)": "Q120",
+  "Motif": "SAVQ↓SI"
+ },
+ {
+  "Uniprot ID": "P39880",
+  "Position of Q (Gln)": "Q1457",
+  "Motif": "SSLQ↓SL"
+ },
+ {
+  "Uniprot ID": "P40424",
+  "Position of Q (Gln)": "Q368",
+  "Motif": "ANVQ↓SQ"
+ },
+ {
+  "Uniprot ID": "P40426",
+  "Position of Q (Gln)": "Q372",
+  "Motif": "ANVQ↓SQ"
+ },
+ {
+  "Uniprot ID": "P40937",
+  "Position of Q (Gln)": "Q166",
+  "Motif": "PALQ↓SR"
+ },
+ {
+  "Uniprot ID": "P41214",
+  "Position of Q (Gln)": "Q212",
+  "Motif": "STLQ↓GD"
+ },
+ {
+  "Uniprot ID": "P41229",
+  "Position of Q (Gln)": "Q1348",
+  "Motif": "PKVQ↓GL"
+ },
+ {
+  "Uniprot ID": "P41235",
+  "Position of Q (Gln)": "Q345",
+  "Motif": "PTLQ↓SI"
+ },
+ {
+  "Uniprot ID": "P42262",
+  "Position of Q (Gln)": "Q162",
+  "Motif": "STLQ↓AV"
+ },
+ {
+  "Uniprot ID": "P42702",
+  "Position of Q (Gln)": "Q802",
+  "Motif": "ADLQ↓GK"
+ },
+ {
+  "Uniprot ID": "P42858",
+  "Position of Q (Gln)": "Q2025",
+  "Motif": "ANLQ↓SS"
+ },
+ {
+  "Uniprot ID": "P43155",
+  "Position of Q (Gln)": "Q133",
+  "Motif": "VDLQ↓GQ"
+ },
+ {
+  "Uniprot ID": "P43353",
+  "Position of Q (Gln)": "Q265",
+  "Motif": "PALQ↓ST"
+ },
+ {
+  "Uniprot ID": "P43629",
+  "Position of Q (Gln)": "Q235",
+  "Motif": "PKVQ↓AG"
+ },
+ {
+  "Uniprot ID": "P43630",
+  "Position of Q (Gln)": "Q235",
+  "Motif": "PTVQ↓AG"
+ },
+ {
+  "Uniprot ID": "P43632",
+  "Position of Q (Gln)": "Q140",
+  "Motif": "PTVQ↓AG"
+ },
+ {
+  "Uniprot ID": "P43699",
+  "Position of Q (Gln)": "Q341",
+  "Motif": "AALQ↓GQ"
+ },
+ {
+  "Uniprot ID": "P45974",
+  "Position of Q (Gln)": "Q551",
+  "Motif": "TALQ↓AK"
+ },
+ {
+  "Uniprot ID": "P46059",
+  "Position of Q (Gln)": "Q619",
+  "Motif": "SVLQ↓AG"
+ },
+ {
+  "Uniprot ID": "P46087",
+  "Position of Q (Gln)": "Q706",
+  "Motif": "PKLQ↓SS"
+ },
+ {
+  "Uniprot ID": "P46531",
+  "Position of Q (Gln)": "Q2315",
+  "Motif": "SRLQ↓SG"
+ },
+ {
+  "Uniprot ID": "P46934",
+  "Position of Q (Gln)": "Q801",
+  "Motif": "PTVQ↓AT"
+ },
+ {
+  "Uniprot ID": "P46939",
+  "Position of Q (Gln)": "Q371",
+  "Motif": "SVLQ↓AG"
+ },
+ {
+  "Uniprot ID": "P47881",
+  "Position of Q (Gln)": "Q301",
+  "Motif": "PDVQ↓SA"
+ },
+ {
+  "Uniprot ID": "P47900",
+  "Position of Q (Gln)": "Q351",
+  "Motif": "ANLQ↓SK"
+ },
+ {
+  "Uniprot ID": "P48448",
+  "Position of Q (Gln)": "Q184",
+  "Motif": "PALQ↓ST"
+ },
+ {
+  "Uniprot ID": "P48634",
+  "Position of Q (Gln)": "Q174",
+  "Motif": "PTLQ↓AA"
+ },
+ {
+  "Uniprot ID": "P48668",
+  "Position of Q (Gln)": "Q406",
+  "Motif": "ASLQ↓AA"
+ },
+ {
+  "Uniprot ID": "P48741",
+  "Position of Q (Gln)": "Q86",
+  "Motif": "TTVQ↓SD"
+ },
+ {
+  "Uniprot ID": "P49257",
+  "Position of Q (Gln)": "Q315",
+  "Motif": "PDLQ↓GQ"
+ },
+ {
+  "Uniprot ID": "P49279",
+  "Position of Q (Gln)": "Q83",
+  "Motif": "SDLQ↓AG"
+ },
+ {
+  "Uniprot ID": "P49281",
+  "Position of Q (Gln)": "Q95",
+  "Motif": "SDLQ↓SG"
+ },
+ {
+  "Uniprot ID": "P49327",
+  "Position of Q (Gln)": "Q2322",
+  "Motif": "SQLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "P49454",
+  "Position of Q (Gln)": "Q2820",
+  "Motif": "SQLQ↓AA"
+ },
+ {
+  "Uniprot ID": "P49639",
+  "Position of Q (Gln)": "Q38",
+  "Motif": "TTFQ↓SC"
+ },
+ {
+  "Uniprot ID": "P49643",
+  "Position of Q (Gln)": "Q241",
+  "Motif": "PAVQ↓SD"
+ },
+ {
+  "Uniprot ID": "P49748",
+  "Position of Q (Gln)": "Q622",
+  "Motif": "AALQ↓SD"
+ },
+ {
+  "Uniprot ID": "P49770",
+  "Position of Q (Gln)": "Q130",
+  "Motif": "AQLQ↓SN"
+ },
+ {
+  "Uniprot ID": "P49792",
+  "Position of Q (Gln)": "Q267",
+  "Motif": "SALQ↓SV"
+ },
+ {
+  "Uniprot ID": "P49848",
+  "Position of Q (Gln)": "Q473",
+  "Motif": "AALQ↓AQ"
+ },
+ {
+  "Uniprot ID": "P50135",
+  "Position of Q (Gln)": "Q75",
+  "Motif": "SKVQ↓AQ"
+ },
+ {
+  "Uniprot ID": "P50454",
+  "Position of Q (Gln)": "Q171",
+  "Motif": "SALQ↓SI"
+ },
+ {
+  "Uniprot ID": "P50570",
+  "Position of Q (Gln)": "Q301",
+  "Motif": "SKLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "P50851",
+  "Position of Q (Gln)": "Q956",
+  "Motif": "TSVQ↓AA"
+ },
+ {
+  "Uniprot ID": "P51451",
+  "Position of Q (Gln)": "Q199",
+  "Motif": "PSLQ↓AL"
+ },
+ {
+  "Uniprot ID": "P51572",
+  "Position of Q (Gln)": "Q234",
+  "Motif": "AKLQ↓AA"
+ },
+ {
+  "Uniprot ID": "P51587",
+  "Position of Q (Gln)": "Q1073",
+  "Motif": "AHLQ↓SS"
+ },
+ {
+  "Uniprot ID": "P51610",
+  "Position of Q (Gln)": "Q1776",
+  "Motif": "AKLQ↓AA"
+ },
+ {
+  "Uniprot ID": "P51617",
+  "Position of Q (Gln)": "Q457",
+  "Motif": "STLQ↓AG"
+ },
+ {
+  "Uniprot ID": "P51693",
+  "Position of Q (Gln)": "Q400",
+  "Motif": "AALQ↓AD"
+ },
+ {
+  "Uniprot ID": "P51805",
+  "Position of Q (Gln)": "Q642",
+  "Motif": "SVLQ↓SC"
+ },
+ {
+  "Uniprot ID": "P51814",
+  "Position of Q (Gln)": "Q66",
+  "Motif": "VSLQ↓AS"
+ },
+ {
+  "Uniprot ID": "P51816",
+  "Position of Q (Gln)": "Q479",
+  "Motif": "PAVQ↓AS"
+ },
+ {
+  "Uniprot ID": "P51825",
+  "Position of Q (Gln)": "Q622",
+  "Motif": "TSLQ↓GE"
+ },
+ {
+  "Uniprot ID": "P51878",
+  "Position of Q (Gln)": "Q23",
+  "Motif": "GILQ↓SG"
+ },
+ {
+  "Uniprot ID": "P51911",
+  "Position of Q (Gln)": "Q121",
+  "Motif": "TQVQ↓ST"
+ },
+ {
+  "Uniprot ID": "P52294",
+  "Position of Q (Gln)": "Q341",
+  "Motif": "SALQ↓SL"
+ },
+ {
+  "Uniprot ID": "P52747",
+  "Position of Q (Gln)": "Q133",
+  "Motif": "SALQ↓AV"
+ },
+ {
+  "Uniprot ID": "P52954",
+  "Position of Q (Gln)": "Q105",
+  "Motif": "SVLQ↓AA"
+ },
+ {
+  "Uniprot ID": "P53597",
+  "Position of Q (Gln)": "Q319",
+  "Motif": "SALQ↓SA"
+ },
+ {
+  "Uniprot ID": "P54652",
+  "Position of Q (Gln)": "Q85",
+  "Motif": "ATVQ↓SD"
+ },
+ {
+  "Uniprot ID": "P54821",
+  "Position of Q (Gln)": "Q107",
+  "Motif": "SQLQ↓AL"
+ },
+ {
+  "Uniprot ID": "P54851",
+  "Position of Q (Gln)": "Q62",
+  "Motif": "STLQ↓AV"
+ },
+ {
+  "Uniprot ID": "P55017",
+  "Position of Q (Gln)": "Q617",
+  "Motif": "SSVQ↓AG"
+ },
+ {
+  "Uniprot ID": "P55198",
+  "Position of Q (Gln)": "Q350",
+  "Motif": "SSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "P55259",
+  "Position of Q (Gln)": "Q331",
+  "Motif": "VSLQ↓AA"
+ },
+ {
+  "Uniprot ID": "P56159",
+  "Position of Q (Gln)": "Q399",
+  "Motif": "ANLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "P56715",
+  "Position of Q (Gln)": "Q210",
+  "Motif": "PSLQ↓AV"
+ },
+ {
+  "Uniprot ID": "P56748",
+  "Position of Q (Gln)": "Q78",
+  "Motif": "PDLQ↓AA"
+ },
+ {
+  "Uniprot ID": "P56937",
+  "Position of Q (Gln)": "Q68",
+  "Motif": "SNLQ↓SV"
+ },
+ {
+  "Uniprot ID": "P57059",
+  "Position of Q (Gln)": "Q553",
+  "Motif": "PVLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "P57071",
+  "Position of Q (Gln)": "Q1343",
+  "Motif": "SAVQ↓SI"
+ },
+ {
+  "Uniprot ID": "P57075",
+  "Position of Q (Gln)": "Q387",
+  "Motif": "SSLQ↓AL"
+ },
+ {
+  "Uniprot ID": "P57078",
+  "Position of Q (Gln)": "Q614",
+  "Motif": "VSLQ↓GK"
+ },
+ {
+  "Uniprot ID": "P57764",
+  "Position of Q (Gln)": "Q29",
+  "Motif": "TSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "P58400",
+  "Position of Q (Gln)": "Q309",
+  "Motif": "TAMQ↓SE"
+ },
+ {
+  "Uniprot ID": "P59045",
+  "Position of Q (Gln)": "Q431",
+  "Motif": "SVLQ↓AA"
+ },
+ {
+  "Uniprot ID": "P59665",
+  "Position of Q (Gln)": "Q16",
+  "Motif": "VALQ↓AQ"
+ },
+ {
+  "Uniprot ID": "P59666",
+  "Position of Q (Gln)": "Q16",
+  "Motif": "VALQ↓AQ"
+ },
+ {
+  "Uniprot ID": "P59998",
+  "Position of Q (Gln)": "Q17",
+  "Motif": "ATLQ↓AA"
+ },
+ {
+  "Uniprot ID": "P60602",
+  "Position of Q (Gln)": "Q62",
+  "Motif": "TMMQ↓SG"
+ },
+ {
+  "Uniprot ID": "P61244",
+  "Position of Q (Gln)": "Q54",
+  "Motif": "PSLQ↓GE"
+ },
+ {
+  "Uniprot ID": "P61550",
+  "Position of Q (Gln)": "Q485",
+  "Motif": "SNLQ↓SA"
+ },
+ {
+  "Uniprot ID": "P61565",
+  "Position of Q (Gln)": "Q495",
+  "Motif": "SFVQ↓SV"
+ },
+ {
+  "Uniprot ID": "P61587",
+  "Position of Q (Gln)": "Q181",
+  "Motif": "SALQ↓SE"
+ },
+ {
+  "Uniprot ID": "P61626",
+  "Position of Q (Gln)": "Q17",
+  "Motif": "VTVQ↓GK"
+ },
+ {
+  "Uniprot ID": "P62304",
+  "Position of Q (Gln)": "Q88",
+  "Motif": "TLLQ↓SV"
+ },
+ {
+  "Uniprot ID": "P68371",
+  "Position of Q (Gln)": "Q8",
+  "Motif": "VHLQ↓AG"
+ },
+ {
+  "Uniprot ID": "P78312",
+  "Position of Q (Gln)": "Q86\/Q627",
+  "Motif": "PLLQ↓SN\/TTVQ↓SS"
+ },
+ {
+  "Uniprot ID": "P78324",
+  "Position of Q (Gln)": "Q236",
+  "Motif": "VTLQ↓GD"
+ },
+ {
+  "Uniprot ID": "P78352",
+  "Position of Q (Gln)": "Q614",
+  "Motif": "TSVQ↓SV"
+ },
+ {
+  "Uniprot ID": "P78364",
+  "Position of Q (Gln)": "Q478",
+  "Motif": "PMLQ↓SS"
+ },
+ {
+  "Uniprot ID": "P78395",
+  "Position of Q (Gln)": "Q424",
+  "Motif": "SALQ↓SL"
+ },
+ {
+  "Uniprot ID": "P78509",
+  "Position of Q (Gln)": "Q99",
+  "Motif": "TSVQ↓AS"
+ },
+ {
+  "Uniprot ID": "P78524",
+  "Position of Q (Gln)": "Q459",
+  "Motif": "SSLQ↓SL"
+ },
+ {
+  "Uniprot ID": "P78527",
+  "Position of Q (Gln)": "Q3130",
+  "Motif": "TKLQ↓SV"
+ },
+ {
+  "Uniprot ID": "P82279",
+  "Position of Q (Gln)": "Q1027",
+  "Motif": "TSLQ↓SV"
+ },
+ {
+  "Uniprot ID": "P82664",
+  "Position of Q (Gln)": "Q122",
+  "Motif": "TLLQ↓SV"
+ },
+ {
+  "Uniprot ID": "P83369",
+  "Position of Q (Gln)": "Q286",
+  "Motif": "SSLQ↓AS"
+ },
+ {
+  "Uniprot ID": "P83436",
+  "Position of Q (Gln)": "Q441",
+  "Motif": "STLQ↓SI"
+ },
+ {
+  "Uniprot ID": "P98082",
+  "Position of Q (Gln)": "Q421",
+  "Motif": "SSVQ↓SS"
+ },
+ {
+  "Uniprot ID": "P98161",
+  "Position of Q (Gln)": "Q368\/Q2067\/Q4216",
+  "Motif": "SSVQ↓SD\/VALQ↓SG\/SRLQ↓AV"
+ },
+ {
+  "Uniprot ID": "P98171",
+  "Position of Q (Gln)": "Q458",
+  "Motif": "AKLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q00613",
+  "Position of Q (Gln)": "Q198",
+  "Motif": "SLVQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q01082",
+  "Position of Q (Gln)": "Q1871",
+  "Motif": "ARLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q01113",
+  "Position of Q (Gln)": "Q154",
+  "Motif": "SDLQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q01432",
+  "Position of Q (Gln)": "Q703",
+  "Motif": "SVLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q01433",
+  "Position of Q (Gln)": "Q78",
+  "Motif": "ASLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q01484",
+  "Position of Q (Gln)": "Q221\/Q1579",
+  "Motif": "ADVQ↓SK\/SSVQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q01523",
+  "Position of Q (Gln)": "Q16",
+  "Motif": "VALQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q01524",
+  "Position of Q (Gln)": "Q16",
+  "Motif": "VALQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q01538",
+  "Position of Q (Gln)": "Q1029",
+  "Motif": "VQLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q01850",
+  "Position of Q (Gln)": "Q185",
+  "Motif": "TSLQ↓GQ"
+ },
+ {
+  "Uniprot ID": "Q02080",
+  "Position of Q (Gln)": "Q357",
+  "Motif": "TSLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q02224",
+  "Position of Q (Gln)": "Q1565\/Q2422",
+  "Motif": "SALQ↓SI\/AKLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q02318",
+  "Position of Q (Gln)": "Q298",
+  "Motif": "AQLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q02388",
+  "Position of Q (Gln)": "Q515",
+  "Motif": "TDLQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q02447",
+  "Position of Q (Gln)": "Q369",
+  "Motif": "SDLQ↓GN"
+ },
+ {
+  "Uniprot ID": "Q03001",
+  "Position of Q (Gln)": "Q206\/Q4237\/Q6872",
+  "Motif": "VAVQ↓SN\/SSLQ↓AK\/SSVQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q03112",
+  "Position of Q (Gln)": "Q276",
+  "Motif": "PDLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q03164",
+  "Position of Q (Gln)": "Q550\/Q3506",
+  "Motif": "STLQ↓SA\/SAVQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q03701",
+  "Position of Q (Gln)": "Q525",
+  "Motif": "TSVQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q04721",
+  "Position of Q (Gln)": "Q1870",
+  "Motif": "ASLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q05516",
+  "Position of Q (Gln)": "Q93",
+  "Motif": "ATLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q05682",
+  "Position of Q (Gln)": "Q445",
+  "Motif": "TKVQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q05707",
+  "Position of Q (Gln)": "Q926",
+  "Motif": "TNLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q05923",
+  "Position of Q (Gln)": "Q192",
+  "Motif": "SDLQ↓GL"
+ },
+ {
+  "Uniprot ID": "Q06265",
+  "Position of Q (Gln)": "Q168",
+  "Motif": "VSVQ↓GD"
+ },
+ {
+  "Uniprot ID": "Q06481",
+  "Position of Q (Gln)": "Q480",
+  "Motif": "AALQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q07092",
+  "Position of Q (Gln)": "Q731",
+  "Motif": "PSLQ↓GT"
+ },
+ {
+  "Uniprot ID": "Q07687",
+  "Position of Q (Gln)": "Q294",
+  "Motif": "SHLQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q08117",
+  "Position of Q (Gln)": "Q136",
+  "Motif": "SQLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q08174",
+  "Position of Q (Gln)": "Q593",
+  "Motif": "PSLQ↓GT"
+ },
+ {
+  "Uniprot ID": "Q08257",
+  "Position of Q (Gln)": "Q287",
+  "Motif": "AALQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q08378",
+  "Position of Q (Gln)": "Q450\/Q544\/Q572\/Q783\/Q937",
+  "Motif": "TKLQ↓AQ\/TALQ↓SQ\/SSLQ↓SV\/AALQ↓AA\/THLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q08379",
+  "Position of Q (Gln)": "Q571",
+  "Motif": "SALQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q08495",
+  "Position of Q (Gln)": "Q302",
+  "Motif": "SRLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q08AM6",
+  "Position of Q (Gln)": "Q489",
+  "Motif": "PDLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q09472",
+  "Position of Q (Gln)": "Q487\/Q1158",
+  "Motif": "PQVQ↓AK\/PVMQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q09666",
+  "Position of Q (Gln)": "Q5371",
+  "Motif": "PSLQ↓GD"
+ },
+ {
+  "Uniprot ID": "Q0JRZ9",
+  "Position of Q (Gln)": "Q720",
+  "Motif": "TNMQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q0P670",
+  "Position of Q (Gln)": "Q434",
+  "Motif": "PKVQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q0VDD8",
+  "Position of Q (Gln)": "Q956",
+  "Motif": "SSLQ↓SI"
+ },
+ {
+  "Uniprot ID": "Q10567",
+  "Position of Q (Gln)": "Q878",
+  "Motif": "SKLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q12756",
+  "Position of Q (Gln)": "Q1008",
+  "Motif": "TVLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q12778",
+  "Position of Q (Gln)": "Q278",
+  "Motif": "ASLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q12802",
+  "Position of Q (Gln)": "Q895",
+  "Motif": "SSLQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q12830",
+  "Position of Q (Gln)": "Q2524",
+  "Motif": "PQVQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q12840",
+  "Position of Q (Gln)": "Q672",
+  "Motif": "AKLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q12851",
+  "Position of Q (Gln)": "Q370",
+  "Motif": "SLLQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q12872",
+  "Position of Q (Gln)": "Q925",
+  "Motif": "SSVQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q12952",
+  "Position of Q (Gln)": "Q187",
+  "Motif": "SRLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q12959",
+  "Position of Q (Gln)": "Q794",
+  "Motif": "TSVQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q12967",
+  "Position of Q (Gln)": "Q490",
+  "Motif": "SALQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q13011",
+  "Position of Q (Gln)": "Q273",
+  "Motif": "VAVQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q13017",
+  "Position of Q (Gln)": "Q125",
+  "Motif": "SKLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q13029",
+  "Position of Q (Gln)": "Q1623",
+  "Motif": "AVLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q13043",
+  "Position of Q (Gln)": "Q131",
+  "Motif": "TILQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q13111",
+  "Position of Q (Gln)": "Q62",
+  "Motif": "TSVQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q13148",
+  "Position of Q (Gln)": "Q331",
+  "Motif": "AALQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q13190",
+  "Position of Q (Gln)": "Q180",
+  "Motif": "VSLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q13202",
+  "Position of Q (Gln)": "Q307",
+  "Motif": "AALQ↓GD"
+ },
+ {
+  "Uniprot ID": "Q13214",
+  "Position of Q (Gln)": "Q717",
+  "Motif": "PALQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q13308",
+  "Position of Q (Gln)": "Q1020",
+  "Motif": "ADLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q13428",
+  "Position of Q (Gln)": "Q72\/Q1118",
+  "Motif": "AALQ↓AK\/TSVQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q13442",
+  "Position of Q (Gln)": "Q28",
+  "Motif": "AQLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q13503",
+  "Position of Q (Gln)": "Q86",
+  "Motif": "AALQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q13546",
+  "Position of Q (Gln)": "Q375",
+  "Motif": "PSLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q13586",
+  "Position of Q (Gln)": "Q496",
+  "Motif": "PSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q13635",
+  "Position of Q (Gln)": "Q184\/Q242",
+  "Motif": "SALQ↓AS\/AKLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q13651",
+  "Position of Q (Gln)": "Q575",
+  "Motif": "SSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q13769",
+  "Position of Q (Gln)": "Q564",
+  "Motif": "AKLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q13796",
+  "Position of Q (Gln)": "Q409",
+  "Motif": "SRLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q13797",
+  "Position of Q (Gln)": "Q170",
+  "Motif": "SNLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q13813",
+  "Position of Q (Gln)": "Q79\/Q608",
+  "Motif": "TNLQ↓GK\/SNLQ↓GK"
+ },
+ {
+  "Uniprot ID": "Q14005",
+  "Position of Q (Gln)": "Q87\/Q1076",
+  "Motif": "AQLQ↓AA\/SSLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q14094",
+  "Position of Q (Gln)": "Q251",
+  "Motif": "STLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q14126",
+  "Position of Q (Gln)": "Q1058",
+  "Motif": "STLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q14129",
+  "Position of Q (Gln)": "Q29\/Q116",
+  "Motif": "SALQ↓SL\/PVLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q14141",
+  "Position of Q (Gln)": "Q82",
+  "Motif": "VQLQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q14147",
+  "Position of Q (Gln)": "Q783\/Q902",
+  "Motif": "AQLQ↓AA\/PALQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q14157",
+  "Position of Q (Gln)": "Q625",
+  "Motif": "SSVQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q14164",
+  "Position of Q (Gln)": "Q409",
+  "Motif": "VDLQ↓AD"
+ },
+ {
+  "Uniprot ID": "Q14204",
+  "Position of Q (Gln)": "Q916\/Q3709",
+  "Motif": "VRLQ↓AG\/SSLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q14494",
+  "Position of Q (Gln)": "Q293",
+  "Motif": "PALQ↓NN"
+ },
+ {
+  "Uniprot ID": "Q14517",
+  "Position of Q (Gln)": "Q3684",
+  "Motif": "VSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q14520",
+  "Position of Q (Gln)": "Q332",
+  "Motif": "ASLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q14541",
+  "Position of Q (Gln)": "Q296",
+  "Motif": "PTLQ↓SI"
+ },
+ {
+  "Uniprot ID": "Q14596",
+  "Position of Q (Gln)": "Q353",
+  "Motif": "SLLQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q14674",
+  "Position of Q (Gln)": "Q1911",
+  "Motif": "PSLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q14686",
+  "Position of Q (Gln)": "Q1621\/Q1981\/Q2056",
+  "Motif": "THLQ↓SA\/TALQ↓AS\/SAVQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q14687",
+  "Position of Q (Gln)": "Q1033",
+  "Motif": "SVLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q14689",
+  "Position of Q (Gln)": "Q61",
+  "Motif": "PSLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q14764",
+  "Position of Q (Gln)": "Q743",
+  "Motif": "SVLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q14789",
+  "Position of Q (Gln)": "Q164\/Q203\/Q2364",
+  "Motif": "STLQ↓AQ\/STLQ↓AQ\/TDLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q14872",
+  "Position of Q (Gln)": "Q562",
+  "Motif": "AILQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q14896",
+  "Position of Q (Gln)": "Q1259",
+  "Motif": "TNLQ↓GE"
+ },
+ {
+  "Uniprot ID": "Q14943",
+  "Position of Q (Gln)": "Q235",
+  "Motif": "PKVQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q14966",
+  "Position of Q (Gln)": "Q1475",
+  "Motif": "SALQ↓GK"
+ },
+ {
+  "Uniprot ID": "Q14980",
+  "Position of Q (Gln)": "Q472",
+  "Motif": "TDLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q14CM0",
+  "Position of Q (Gln)": "Q404\/Q1203",
+  "Motif": "SALQ↓AK\/SSLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q15027",
+  "Position of Q (Gln)": "Q356",
+  "Motif": "SAVQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q15042",
+  "Position of Q (Gln)": "Q675",
+  "Motif": "ARMQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q15111",
+  "Position of Q (Gln)": "Q142",
+  "Motif": "TDLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q15149",
+  "Position of Q (Gln)": "Q557\/Q646\/Q1443",
+  "Motif": "ALLQ↓SD\/VTLQ↓SV\/PKVQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q15326",
+  "Position of Q (Gln)": "Q521",
+  "Motif": "ANMQ↓GE"
+ },
+ {
+  "Uniprot ID": "Q15431",
+  "Position of Q (Gln)": "Q306",
+  "Motif": "TKLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q15437",
+  "Position of Q (Gln)": "Q509",
+  "Motif": "ADVQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q15477",
+  "Position of Q (Gln)": "Q103\/Q741",
+  "Motif": "SDLQ↓AQ\/SQLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q15562",
+  "Position of Q (Gln)": "Q147",
+  "Motif": "PSLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q15643",
+  "Position of Q (Gln)": "Q1000",
+  "Motif": "TKVQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q15678",
+  "Position of Q (Gln)": "Q738",
+  "Motif": "AQLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q15700",
+  "Position of Q (Gln)": "Q760",
+  "Motif": "TSVQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q15714",
+  "Position of Q (Gln)": "Q94\/Q550",
+  "Motif": "AQLQ↓AQ\/VQLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q15735",
+  "Position of Q (Gln)": "Q389",
+  "Motif": "PNLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q15750",
+  "Position of Q (Gln)": "Q132",
+  "Motif": "ASLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q15776",
+  "Position of Q (Gln)": "Q169",
+  "Motif": "TQLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q15788",
+  "Position of Q (Gln)": "Q855",
+  "Motif": "ASLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q15814",
+  "Position of Q (Gln)": "Q121",
+  "Motif": "ARLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q15916",
+  "Position of Q (Gln)": "Q76",
+  "Motif": "TILQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q16204",
+  "Position of Q (Gln)": "Q24",
+  "Motif": "AAMQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q16348",
+  "Position of Q (Gln)": "Q646",
+  "Motif": "SVLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q16352",
+  "Position of Q (Gln)": "Q243",
+  "Motif": "ATLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q16401",
+  "Position of Q (Gln)": "Q30",
+  "Motif": "SVLQ↓AV"
+ },
+ {
+  "Uniprot ID": "Q16445",
+  "Position of Q (Gln)": "Q398",
+  "Motif": "PILQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q16643",
+  "Position of Q (Gln)": "Q490",
+  "Motif": "STLQ↓GE"
+ },
+ {
+  "Uniprot ID": "Q16650",
+  "Position of Q (Gln)": "Q282",
+  "Motif": "TNVQ↓GN"
+ },
+ {
+  "Uniprot ID": "Q16799",
+  "Position of Q (Gln)": "Q646",
+  "Motif": "SVLQ↓AV"
+ },
+ {
+  "Uniprot ID": "Q16825",
+  "Position of Q (Gln)": "Q548",
+  "Motif": "AQLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q17RW2",
+  "Position of Q (Gln)": "Q318",
+  "Motif": "SSLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q17RY0",
+  "Position of Q (Gln)": "Q529",
+  "Motif": "SSVQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q1XH10",
+  "Position of Q (Gln)": "Q478",
+  "Motif": "PSVQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q24JP5",
+  "Position of Q (Gln)": "Q987",
+  "Motif": "PAVQ↓SI"
+ },
+ {
+  "Uniprot ID": "Q2KHR3",
+  "Position of Q (Gln)": "Q520\/Q627\/Q753\/Q937",
+  "Motif": "PAVQ↓SS\/VALQ↓AS\/ASLQ↓AQ\/PALQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q2KJY2",
+  "Position of Q (Gln)": "Q1044",
+  "Motif": "PSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q2LD37",
+  "Position of Q (Gln)": "Q287\/Q3933",
+  "Motif": "VVMQ↓SN\/STVQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q2M2H8",
+  "Position of Q (Gln)": "Q892",
+  "Motif": "TDLQ↓GL"
+ },
+ {
+  "Uniprot ID": "Q2M2I5",
+  "Position of Q (Gln)": "Q344",
+  "Motif": "ASLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q2M3C7",
+  "Position of Q (Gln)": "Q297\/Q811",
+  "Motif": "TALQ↓SL\/PTLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q2M3G0",
+  "Position of Q (Gln)": "Q564",
+  "Motif": "SAVQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q2TAL8",
+  "Position of Q (Gln)": "Q165",
+  "Motif": "SQLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q2TB90",
+  "Position of Q (Gln)": "Q488",
+  "Motif": "VDVQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q2UY09",
+  "Position of Q (Gln)": "Q882",
+  "Motif": "TALQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q2VYF4",
+  "Position of Q (Gln)": "Q474",
+  "Motif": "PTLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q2WEN9",
+  "Position of Q (Gln)": "Q409",
+  "Motif": "VTVQ↓GK"
+ },
+ {
+  "Uniprot ID": "Q2WGJ6",
+  "Position of Q (Gln)": "Q243",
+  "Motif": "ALLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q3B7T1",
+  "Position of Q (Gln)": "Q859",
+  "Motif": "AALQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q3B8N5",
+  "Position of Q (Gln)": "Q295",
+  "Motif": "VQLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q3L8U1",
+  "Position of Q (Gln)": "Q288\/Q457\/Q2673",
+  "Motif": "SLLQ↓SS\/TQLQ↓SQ\/TTLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q3MIN7",
+  "Position of Q (Gln)": "Q351",
+  "Motif": "SALQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q3MJ13",
+  "Position of Q (Gln)": "Q6",
+  "Motif": "TSLQ↓AV"
+ },
+ {
+  "Uniprot ID": "Q3SY00",
+  "Position of Q (Gln)": "Q218",
+  "Motif": "VQLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q3V6T2",
+  "Position of Q (Gln)": "Q1059",
+  "Motif": "ATLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q3ZLR7",
+  "Position of Q (Gln)": "Q585",
+  "Motif": "SDLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q49AM3",
+  "Position of Q (Gln)": "Q292",
+  "Motif": "PKVQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q4AC94",
+  "Position of Q (Gln)": "Q2048",
+  "Motif": "TRMQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q4ADV7",
+  "Position of Q (Gln)": "Q191",
+  "Motif": "VDLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q4G0X9",
+  "Position of Q (Gln)": "Q580",
+  "Motif": "VALQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q4G112",
+  "Position of Q (Gln)": "Q345",
+  "Motif": "PSMQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q4KMG9",
+  "Position of Q (Gln)": "Q98\/Q105",
+  "Motif": "STLQ↓ST\/TSLQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q4L235",
+  "Position of Q (Gln)": "Q287",
+  "Motif": "TVLQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q4VCS5",
+  "Position of Q (Gln)": "Q614",
+  "Motif": "VQLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q53ET0",
+  "Position of Q (Gln)": "Q344\/Q353",
+  "Motif": "PSLQ↓SS\/PNLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q53H76",
+  "Position of Q (Gln)": "Q442",
+  "Motif": "VNLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q53HC5",
+  "Position of Q (Gln)": "Q257",
+  "Motif": "PLMQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q53S58",
+  "Position of Q (Gln)": "Q62",
+  "Motif": "PQLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q53TS8",
+  "Position of Q (Gln)": "Q306",
+  "Motif": "PAVQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q58DX5",
+  "Position of Q (Gln)": "Q14",
+  "Motif": "TSLQ↓GK"
+ },
+ {
+  "Uniprot ID": "Q58EX2",
+  "Position of Q (Gln)": "Q1498",
+  "Motif": "TTLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q5CZC0",
+  "Position of Q (Gln)": "Q1477",
+  "Motif": "AALQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q5DID0",
+  "Position of Q (Gln)": "Q459\/Q1048",
+  "Motif": "VSLQ↓AG\/TLMQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q5EBL2",
+  "Position of Q (Gln)": "Q685",
+  "Motif": "PHLQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q5H8A4",
+  "Position of Q (Gln)": "Q251",
+  "Motif": "TSLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q5H8C1",
+  "Position of Q (Gln)": "Q477",
+  "Motif": "ADLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q5H9R4",
+  "Position of Q (Gln)": "Q481",
+  "Motif": "ASVQ↓AD"
+ },
+ {
+  "Uniprot ID": "Q5HYK7",
+  "Position of Q (Gln)": "Q196",
+  "Motif": "PVLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q5JS13",
+  "Position of Q (Gln)": "Q149",
+  "Motif": "SALQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q5JSZ5",
+  "Position of Q (Gln)": "Q1968",
+  "Motif": "TSLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q5JU85",
+  "Position of Q (Gln)": "Q1265",
+  "Motif": "SKLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q5JV73",
+  "Position of Q (Gln)": "Q767",
+  "Motif": "STLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q5JWR5",
+  "Position of Q (Gln)": "Q1579",
+  "Motif": "STLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q5JXA9",
+  "Position of Q (Gln)": "Q219",
+  "Motif": "TAVQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q5JYT7",
+  "Position of Q (Gln)": "Q652",
+  "Motif": "SALQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q5KSL6",
+  "Position of Q (Gln)": "Q1178",
+  "Motif": "TALQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q5M8T2",
+  "Position of Q (Gln)": "Q88",
+  "Motif": "STLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q5PRF9",
+  "Position of Q (Gln)": "Q398",
+  "Motif": "SVLQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q5QJ38",
+  "Position of Q (Gln)": "Q113",
+  "Motif": "VDVQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q5R3F8",
+  "Position of Q (Gln)": "Q242",
+  "Motif": "TVLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q5SNV9",
+  "Position of Q (Gln)": "Q295",
+  "Motif": "SNLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q5SRH9",
+  "Position of Q (Gln)": "Q206\/Q595",
+  "Motif": "SLVQ↓SS\/ATLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q5SW79",
+  "Position of Q (Gln)": "Q1269",
+  "Motif": "TRLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q5SYC1",
+  "Position of Q (Gln)": "Q5",
+  "Motif": "THLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q5T035",
+  "Position of Q (Gln)": "Q22",
+  "Motif": "TSLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q5T0F9",
+  "Position of Q (Gln)": "Q553",
+  "Motif": "AALQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q5T0N1",
+  "Position of Q (Gln)": "Q836",
+  "Motif": "SKLQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q5T1M5",
+  "Position of Q (Gln)": "Q691",
+  "Motif": "TKVQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q5T3F8",
+  "Position of Q (Gln)": "Q302",
+  "Motif": "TNLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q5T3I0",
+  "Position of Q (Gln)": "Q196",
+  "Motif": "PQLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q5T3J3",
+  "Position of Q (Gln)": "Q60",
+  "Motif": "PLVQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q5T481",
+  "Position of Q (Gln)": "Q95",
+  "Motif": "AQLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q5T4S7",
+  "Position of Q (Gln)": "Q1266",
+  "Motif": "SAVQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q5T749",
+  "Position of Q (Gln)": "Q108",
+  "Motif": "SSVQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q5T7N2",
+  "Position of Q (Gln)": "Q9",
+  "Motif": "TSVQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q5T8A7",
+  "Position of Q (Gln)": "Q13",
+  "Motif": "VALQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q5T8D3",
+  "Position of Q (Gln)": "Q477",
+  "Motif": "TALQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q5TAX3",
+  "Position of Q (Gln)": "Q125",
+  "Motif": "TSLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q5TBA9",
+  "Position of Q (Gln)": "Q885",
+  "Motif": "TRLQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q5TC79",
+  "Position of Q (Gln)": "Q39",
+  "Motif": "VNVQ↓GQ"
+ },
+ {
+  "Uniprot ID": "Q5TD94",
+  "Position of Q (Gln)": "Q625",
+  "Motif": "AVLQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q5TDP6",
+  "Position of Q (Gln)": "Q196",
+  "Motif": "SHLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q5TEA3",
+  "Position of Q (Gln)": "Q907",
+  "Motif": "VQLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q5TFQ8",
+  "Position of Q (Gln)": "Q235",
+  "Motif": "VTLQ↓GD"
+ },
+ {
+  "Uniprot ID": "Q5TGJ6",
+  "Position of Q (Gln)": "Q89",
+  "Motif": "PTVQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q5TH69",
+  "Position of Q (Gln)": "Q344",
+  "Motif": "PVLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q5TIA1",
+  "Position of Q (Gln)": "Q1214",
+  "Motif": "TTLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q5TIE3",
+  "Position of Q (Gln)": "Q349",
+  "Motif": "PDLQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q5TZA2",
+  "Position of Q (Gln)": "Q1017",
+  "Motif": "AQLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q5TZJ5",
+  "Position of Q (Gln)": "Q504",
+  "Motif": "AHLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q5U5X8",
+  "Position of Q (Gln)": "Q407",
+  "Motif": "SSLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q5UE93",
+  "Position of Q (Gln)": "Q29",
+  "Motif": "PALQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q5VSG8",
+  "Position of Q (Gln)": "Q389",
+  "Motif": "TALQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q5VST9",
+  "Position of Q (Gln)": "Q2420\/Q4075",
+  "Motif": "TVLQ↓AG\/TRLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q5VT52",
+  "Position of Q (Gln)": "Q544",
+  "Motif": "SLLQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q5VTQ0",
+  "Position of Q (Gln)": "Q572",
+  "Motif": "AALQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q5VTR2",
+  "Position of Q (Gln)": "Q254\/Q521",
+  "Motif": "SKLQ↓SK\/ALLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q5VU36",
+  "Position of Q (Gln)": "Q504",
+  "Motif": "AHLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q5VU43",
+  "Position of Q (Gln)": "Q1099",
+  "Motif": "SSLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q5VV41",
+  "Position of Q (Gln)": "Q178",
+  "Motif": "PKLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q5VVM6",
+  "Position of Q (Gln)": "Q211",
+  "Motif": "SLLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q5VVP1",
+  "Position of Q (Gln)": "Q500",
+  "Motif": "AHLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q5VWN6",
+  "Position of Q (Gln)": "Q492",
+  "Motif": "SKLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q5VYP0",
+  "Position of Q (Gln)": "Q504",
+  "Motif": "AHLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q5VZ46",
+  "Position of Q (Gln)": "Q481\/Q1049",
+  "Motif": "TVLQ↓AA\/PSLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q5VZ66",
+  "Position of Q (Gln)": "Q22",
+  "Motif": "AALQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q5VZY2",
+  "Position of Q (Gln)": "Q45",
+  "Motif": "PLVQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q5W0B1",
+  "Position of Q (Gln)": "Q223",
+  "Motif": "AALQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q5W0Q7",
+  "Position of Q (Gln)": "Q664",
+  "Motif": "TNMQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q63HK5",
+  "Position of Q (Gln)": "Q726",
+  "Motif": "SALQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q68CJ6",
+  "Position of Q (Gln)": "Q664",
+  "Motif": "ASVQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q68CQ4",
+  "Position of Q (Gln)": "Q554",
+  "Motif": "VNMQ↓GQ"
+ },
+ {
+  "Uniprot ID": "Q68CR7",
+  "Position of Q (Gln)": "Q831",
+  "Motif": "TALQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q68D51",
+  "Position of Q (Gln)": "Q788",
+  "Motif": "PKLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q68DN1",
+  "Position of Q (Gln)": "Q72",
+  "Motif": "PKLQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q68DQ2",
+  "Position of Q (Gln)": "Q2128",
+  "Motif": "SLLQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q68DV7",
+  "Position of Q (Gln)": "Q22\/Q422",
+  "Motif": "ATLQ↓AG\/SHLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q69YG0",
+  "Position of Q (Gln)": "Q29",
+  "Motif": "PHLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q6AI08",
+  "Position of Q (Gln)": "Q789",
+  "Motif": "PTLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q6AI39",
+  "Position of Q (Gln)": "Q558",
+  "Motif": "SAVQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q6DT37",
+  "Position of Q (Gln)": "Q772",
+  "Motif": "AQLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q6GQQ9",
+  "Position of Q (Gln)": "Q604",
+  "Motif": "TAMQ↓GE"
+ },
+ {
+  "Uniprot ID": "Q6IA69",
+  "Position of Q (Gln)": "Q564",
+  "Motif": "PALQ↓SI"
+ },
+ {
+  "Uniprot ID": "Q6IEE7",
+  "Position of Q (Gln)": "Q687\/Q980",
+  "Motif": "TQLQ↓AQ\/TSVQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q6IMN6",
+  "Position of Q (Gln)": "Q520",
+  "Motif": "PSMQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q6IQ26",
+  "Position of Q (Gln)": "Q674",
+  "Motif": "PKLQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q6IQ32",
+  "Position of Q (Gln)": "Q950",
+  "Motif": "SDLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q6KB66",
+  "Position of Q (Gln)": "Q293",
+  "Motif": "SSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q6L8Q7",
+  "Position of Q (Gln)": "Q441",
+  "Motif": "SVLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q6NSI4",
+  "Position of Q (Gln)": "Q669",
+  "Motif": "ANLQ↓GK"
+ },
+ {
+  "Uniprot ID": "Q6NSZ9",
+  "Position of Q (Gln)": "Q202",
+  "Motif": "PVLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q6NUM6",
+  "Position of Q (Gln)": "Q195",
+  "Motif": "SQLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q6NUS6",
+  "Position of Q (Gln)": "Q406",
+  "Motif": "TLLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q6P179",
+  "Position of Q (Gln)": "Q123",
+  "Motif": "ATLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q6P1J9",
+  "Position of Q (Gln)": "Q239",
+  "Motif": "TILQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q6P2E9",
+  "Position of Q (Gln)": "Q1182",
+  "Motif": "STLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q6P4E1",
+  "Position of Q (Gln)": "Q113",
+  "Motif": "VKLQ↓NN"
+ },
+ {
+  "Uniprot ID": "Q6P656",
+  "Position of Q (Gln)": "Q117",
+  "Motif": "SAVQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q6P9B9",
+  "Position of Q (Gln)": "Q335",
+  "Motif": "PSLQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q6PGP7",
+  "Position of Q (Gln)": "Q588",
+  "Motif": "ADLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q6PI48",
+  "Position of Q (Gln)": "Q35",
+  "Motif": "SLLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q6PIF6",
+  "Position of Q (Gln)": "Q840",
+  "Motif": "VQLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q6PIV7",
+  "Position of Q (Gln)": "Q132",
+  "Motif": "TQLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q6PIY5",
+  "Position of Q (Gln)": "Q277",
+  "Motif": "SKLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q6PJG6",
+  "Position of Q (Gln)": "Q640",
+  "Motif": "TVLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q6PKH6",
+  "Position of Q (Gln)": "Q75",
+  "Motif": "ATLQ↓GE"
+ },
+ {
+  "Uniprot ID": "Q6PL24",
+  "Position of Q (Gln)": "Q5",
+  "Motif": "SDLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q6R2W3",
+  "Position of Q (Gln)": "Q435\/Q1120",
+  "Motif": "SVLQ↓SD\/ASMQ↓GK"
+ },
+ {
+  "Uniprot ID": "Q6UB99",
+  "Position of Q (Gln)": "Q1887",
+  "Motif": "SSLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q6UX15",
+  "Position of Q (Gln)": "Q8",
+  "Motif": "TALQ↓AV"
+ },
+ {
+  "Uniprot ID": "Q6UXM1",
+  "Position of Q (Gln)": "Q98",
+  "Motif": "SHLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q6UXZ4",
+  "Position of Q (Gln)": "Q591",
+  "Motif": "PSLQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q6VY07",
+  "Position of Q (Gln)": "Q491",
+  "Motif": "TDLQ↓GS"
+ },
+ {
+  "Uniprot ID": "Q6WRI0",
+  "Position of Q (Gln)": "Q105",
+  "Motif": "SDLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q6X4W1",
+  "Position of Q (Gln)": "Q312",
+  "Motif": "SDLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q6ZMS7",
+  "Position of Q (Gln)": "Q276",
+  "Motif": "TDLQ↓GE"
+ },
+ {
+  "Uniprot ID": "Q6ZN03",
+  "Position of Q (Gln)": "Q293",
+  "Motif": "VRLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q6ZN30",
+  "Position of Q (Gln)": "Q969",
+  "Motif": "SSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q6ZN66",
+  "Position of Q (Gln)": "Q476",
+  "Motif": "SILQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q6ZNJ1",
+  "Position of Q (Gln)": "Q324\/Q2184",
+  "Motif": "PVLQ↓AT\/VQLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q6ZP01",
+  "Position of Q (Gln)": "Q96",
+  "Motif": "TQFQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q6ZRC1",
+  "Position of Q (Gln)": "Q167",
+  "Motif": "SVLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q6ZRI0",
+  "Position of Q (Gln)": "Q704",
+  "Motif": "VHLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q6ZRQ5",
+  "Position of Q (Gln)": "Q108",
+  "Motif": "TLLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q6ZSI9",
+  "Position of Q (Gln)": "Q572",
+  "Motif": "SQLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q6ZSK4",
+  "Position of Q (Gln)": "Q66",
+  "Motif": "SSLQ↓GD"
+ },
+ {
+  "Uniprot ID": "Q6ZSR9",
+  "Position of Q (Gln)": "Q217",
+  "Motif": "TSVQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q6ZST2",
+  "Position of Q (Gln)": "Q18",
+  "Motif": "TALQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q6ZSZ6",
+  "Position of Q (Gln)": "Q750",
+  "Motif": "SALQ↓SI"
+ },
+ {
+  "Uniprot ID": "Q6ZT89",
+  "Position of Q (Gln)": "Q34",
+  "Motif": "TRLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q6ZTR7",
+  "Position of Q (Gln)": "Q246",
+  "Motif": "SVLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q6ZU65",
+  "Position of Q (Gln)": "Q1223",
+  "Motif": "ASVQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q6ZU80",
+  "Position of Q (Gln)": "Q705",
+  "Motif": "SSLQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q6ZUB1",
+  "Position of Q (Gln)": "Q648\/Q853",
+  "Motif": "SRLQ↓AS\/TDLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q6ZUM4",
+  "Position of Q (Gln)": "Q682",
+  "Motif": "PTLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q6ZUT9",
+  "Position of Q (Gln)": "Q659",
+  "Motif": "PKLQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q6ZVL6",
+  "Position of Q (Gln)": "Q729\/Q922",
+  "Motif": "TAMQ↓GN\/PHLQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q6ZVT0",
+  "Position of Q (Gln)": "Q336",
+  "Motif": "AALQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q6ZW05",
+  "Position of Q (Gln)": "Q576",
+  "Motif": "SVLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q70E73",
+  "Position of Q (Gln)": "Q693",
+  "Motif": "PVMQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q70EK8",
+  "Position of Q (Gln)": "Q744",
+  "Motif": "TSLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q70EL1",
+  "Position of Q (Gln)": "Q1328",
+  "Motif": "ASLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q70J99",
+  "Position of Q (Gln)": "Q746",
+  "Motif": "AQLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q70Z35",
+  "Position of Q (Gln)": "Q882",
+  "Motif": "TDLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q71F23",
+  "Position of Q (Gln)": "Q372",
+  "Motif": "SDVQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q71RH2",
+  "Position of Q (Gln)": "Q48",
+  "Motif": "SSVQ↓AI"
+ },
+ {
+  "Uniprot ID": "Q75QN2",
+  "Position of Q (Gln)": "Q156\/Q807",
+  "Motif": "TIVQ↓SS\/PNLQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q75T13",
+  "Position of Q (Gln)": "Q767",
+  "Motif": "VHLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q76I76",
+  "Position of Q (Gln)": "Q182",
+  "Motif": "SALQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q76LX8",
+  "Position of Q (Gln)": "Q429",
+  "Motif": "ADLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q7KZN9",
+  "Position of Q (Gln)": "Q52",
+  "Motif": "VALQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q7L190",
+  "Position of Q (Gln)": "Q159",
+  "Motif": "TSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q7L1V2",
+  "Position of Q (Gln)": "Q147",
+  "Motif": "SFVQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q7L4I2",
+  "Position of Q (Gln)": "Q303",
+  "Motif": "AALQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q7L590",
+  "Position of Q (Gln)": "Q431",
+  "Motif": "ADLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q7L7X3",
+  "Position of Q (Gln)": "Q246",
+  "Motif": "PTLQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q7L804",
+  "Position of Q (Gln)": "Q21",
+  "Motif": "TVLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q7RTR2",
+  "Position of Q (Gln)": "Q317",
+  "Motif": "SQVQ↓AD"
+ },
+ {
+  "Uniprot ID": "Q7RTT3",
+  "Position of Q (Gln)": "Q80",
+  "Motif": "TDLQ↓GN"
+ },
+ {
+  "Uniprot ID": "Q7RTT5",
+  "Position of Q (Gln)": "Q80",
+  "Motif": "TDLQ↓GN"
+ },
+ {
+  "Uniprot ID": "Q7RTW8",
+  "Position of Q (Gln)": "Q89",
+  "Motif": "PSLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q7RTX7",
+  "Position of Q (Gln)": "Q209",
+  "Motif": "VILQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q7Z2T5",
+  "Position of Q (Gln)": "Q706",
+  "Motif": "SHVQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q7Z304",
+  "Position of Q (Gln)": "Q74",
+  "Motif": "PDLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q7Z333",
+  "Position of Q (Gln)": "Q394",
+  "Motif": "SVLQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q7Z353",
+  "Position of Q (Gln)": "Q203",
+  "Motif": "SSVQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q7Z3B3",
+  "Position of Q (Gln)": "Q243\/Q896",
+  "Motif": "PALQ↓GS\/VDLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q7Z3E2",
+  "Position of Q (Gln)": "Q603\/Q624",
+  "Motif": "AQLQ↓SE\/SQLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q7Z3J3",
+  "Position of Q (Gln)": "Q267",
+  "Motif": "SALQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q7Z3Z3",
+  "Position of Q (Gln)": "Q42",
+  "Motif": "PQLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q7Z442",
+  "Position of Q (Gln)": "Q728\/Q887",
+  "Motif": "TLLQ↓SN\/TALQ↓GE"
+ },
+ {
+  "Uniprot ID": "Q7Z4V0",
+  "Position of Q (Gln)": "Q457",
+  "Motif": "TTLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q7Z5N4",
+  "Position of Q (Gln)": "Q1221",
+  "Motif": "SDLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q7Z5Q1",
+  "Position of Q (Gln)": "Q389",
+  "Motif": "SSVQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q7Z5R6",
+  "Position of Q (Gln)": "Q100",
+  "Motif": "ASLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q7Z6B0",
+  "Position of Q (Gln)": "Q222",
+  "Motif": "ALLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q7Z6B7",
+  "Position of Q (Gln)": "Q457",
+  "Motif": "TKLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q7Z6L1",
+  "Position of Q (Gln)": "Q217",
+  "Motif": "VSLQ↓GK"
+ },
+ {
+  "Uniprot ID": "Q7Z739",
+  "Position of Q (Gln)": "Q315",
+  "Motif": "PLVQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q7Z7A1",
+  "Position of Q (Gln)": "Q741",
+  "Motif": "SALQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q7Z7G8",
+  "Position of Q (Gln)": "Q2565",
+  "Motif": "VTMQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q86SE8",
+  "Position of Q (Gln)": "Q84",
+  "Motif": "ASLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q86SQ6",
+  "Position of Q (Gln)": "Q368",
+  "Motif": "TNLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q86TE4",
+  "Position of Q (Gln)": "Q60",
+  "Motif": "VNLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q86TV6",
+  "Position of Q (Gln)": "Q593\/Q680",
+  "Motif": "VKLQ↓SL\/SSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q86U10",
+  "Position of Q (Gln)": "Q373",
+  "Motif": "PSLQ↓GN"
+ },
+ {
+  "Uniprot ID": "Q86U38",
+  "Position of Q (Gln)": "Q345",
+  "Motif": "PRLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q86UE6",
+  "Position of Q (Gln)": "Q283",
+  "Motif": "PHLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q86UK5",
+  "Position of Q (Gln)": "Q249",
+  "Motif": "ATLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q86UQ4",
+  "Position of Q (Gln)": "Q4690",
+  "Motif": "STLQ↓GT"
+ },
+ {
+  "Uniprot ID": "Q86UR5",
+  "Position of Q (Gln)": "Q1056",
+  "Motif": "PLLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q86UW6",
+  "Position of Q (Gln)": "Q693\/Q814",
+  "Motif": "SKLQ↓AT\/SSVQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q86UY5",
+  "Position of Q (Gln)": "Q101",
+  "Motif": "SSLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q86V20",
+  "Position of Q (Gln)": "Q524",
+  "Motif": "TVLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q86VF7",
+  "Position of Q (Gln)": "Q223\/Q855\/Q1098",
+  "Motif": "AQLQ↓SD\/SKLQ↓SE\/TSLQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q86VI1",
+  "Position of Q (Gln)": "Q704",
+  "Motif": "SSLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q86VI3",
+  "Position of Q (Gln)": "Q1488",
+  "Motif": "VKLQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q86VK4",
+  "Position of Q (Gln)": "Q448",
+  "Motif": "VTMQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q86VS3",
+  "Position of Q (Gln)": "Q164",
+  "Motif": "PVLQ↓AD"
+ },
+ {
+  "Uniprot ID": "Q86VV8",
+  "Position of Q (Gln)": "Q102\/Q1566",
+  "Motif": "PNLQ↓AE\/PLVQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q86W10",
+  "Position of Q (Gln)": "Q305",
+  "Motif": "ADLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q86W24",
+  "Position of Q (Gln)": "Q516",
+  "Motif": "SLLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q86WA8",
+  "Position of Q (Gln)": "Q53",
+  "Motif": "TSLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q86WI1",
+  "Position of Q (Gln)": "Q3422",
+  "Motif": "TVLQ↓NN"
+ },
+ {
+  "Uniprot ID": "Q86WN1",
+  "Position of Q (Gln)": "Q102",
+  "Motif": "TRLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q86WT1",
+  "Position of Q (Gln)": "Q182",
+  "Motif": "ATLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q86WU2",
+  "Position of Q (Gln)": "Q280",
+  "Motif": "PSVQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q86XE0",
+  "Position of Q (Gln)": "Q21",
+  "Motif": "VDLQ↓GD"
+ },
+ {
+  "Uniprot ID": "Q86YQ2",
+  "Position of Q (Gln)": "Q130",
+  "Motif": "ANMQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q86Z14",
+  "Position of Q (Gln)": "Q518",
+  "Motif": "PDVQ↓GQ"
+ },
+ {
+  "Uniprot ID": "Q8HWS3",
+  "Position of Q (Gln)": "Q762",
+  "Motif": "PSLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q8IUE0",
+  "Position of Q (Gln)": "Q136",
+  "Motif": "THLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q8IUE1",
+  "Position of Q (Gln)": "Q136",
+  "Motif": "THLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q8IUG5",
+  "Position of Q (Gln)": "Q2081",
+  "Motif": "ADLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q8IUM7",
+  "Position of Q (Gln)": "Q413",
+  "Motif": "PSLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q8IUQ0",
+  "Position of Q (Gln)": "Q27",
+  "Motif": "THLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q8IUQ4",
+  "Position of Q (Gln)": "Q159",
+  "Motif": "TTLQ↓GE"
+ },
+ {
+  "Uniprot ID": "Q8IV31",
+  "Position of Q (Gln)": "Q178",
+  "Motif": "PDLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q8IV76",
+  "Position of Q (Gln)": "Q425",
+  "Motif": "PDLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q8IVF2",
+  "Position of Q (Gln)": "Q969\/Q1959",
+  "Motif": "VDVQ↓AQ\/VDVQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q8IVH2",
+  "Position of Q (Gln)": "Q128",
+  "Motif": "PQLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q8IVL0",
+  "Position of Q (Gln)": "Q752",
+  "Motif": "PRLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q8IVL1",
+  "Position of Q (Gln)": "Q816",
+  "Motif": "PRLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q8IVS8",
+  "Position of Q (Gln)": "Q338",
+  "Motif": "AAMQ↓GD"
+ },
+ {
+  "Uniprot ID": "Q8IW52",
+  "Position of Q (Gln)": "Q819",
+  "Motif": "AKLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q8IWB4",
+  "Position of Q (Gln)": "Q504",
+  "Motif": "AHLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q8IWI9",
+  "Position of Q (Gln)": "Q690",
+  "Motif": "SSLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q8IWJ2",
+  "Position of Q (Gln)": "Q1208",
+  "Motif": "TSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q8IWK6",
+  "Position of Q (Gln)": "Q1119",
+  "Motif": "TNLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q8IWU2",
+  "Position of Q (Gln)": "Q808",
+  "Motif": "TSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q8IWW6",
+  "Position of Q (Gln)": "Q124\/Q641",
+  "Motif": "SSVQ↓GT\/PTLQ↓AV"
+ },
+ {
+  "Uniprot ID": "Q8IX94",
+  "Position of Q (Gln)": "Q367",
+  "Motif": "ASLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q8IXH6",
+  "Position of Q (Gln)": "Q92",
+  "Motif": "ARLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q8IXN7",
+  "Position of Q (Gln)": "Q80",
+  "Motif": "PSVQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q8IXQ6",
+  "Position of Q (Gln)": "Q264",
+  "Motif": "VSLQ↓GK"
+ },
+ {
+  "Uniprot ID": "Q8IXV7",
+  "Position of Q (Gln)": "Q326",
+  "Motif": "SSLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q8IY18",
+  "Position of Q (Gln)": "Q43",
+  "Motif": "PLLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q8IY63",
+  "Position of Q (Gln)": "Q620",
+  "Motif": "TQLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q8IYA2",
+  "Position of Q (Gln)": "Q856",
+  "Motif": "SQLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q8IYA6",
+  "Position of Q (Gln)": "Q290",
+  "Motif": "SKVQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q8IYB5",
+  "Position of Q (Gln)": "Q156",
+  "Motif": "PSLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q8IYT1",
+  "Position of Q (Gln)": "Q211",
+  "Motif": "VNLQ↓GK"
+ },
+ {
+  "Uniprot ID": "Q8IYT8",
+  "Position of Q (Gln)": "Q527",
+  "Motif": "ARLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q8IYX3",
+  "Position of Q (Gln)": "Q58\/Q314",
+  "Motif": "SALQ↓GQ\/PALQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q8IZ16",
+  "Position of Q (Gln)": "Q120",
+  "Motif": "SALQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q8IZ20",
+  "Position of Q (Gln)": "Q97",
+  "Motif": "TDLQ↓GL"
+ },
+ {
+  "Uniprot ID": "Q8IZA0",
+  "Position of Q (Gln)": "Q83",
+  "Motif": "PSLQ↓SC"
+ },
+ {
+  "Uniprot ID": "Q8IZD2",
+  "Position of Q (Gln)": "Q1296\/Q1310",
+  "Motif": "SHVQ↓SS\/PQLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q8IZD6",
+  "Position of Q (Gln)": "Q234",
+  "Motif": "VNLQ↓GT"
+ },
+ {
+  "Uniprot ID": "Q8IZJ3",
+  "Position of Q (Gln)": "Q63",
+  "Motif": "VTVQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q8IZQ1",
+  "Position of Q (Gln)": "Q840",
+  "Motif": "SSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q8IZS8",
+  "Position of Q (Gln)": "Q1074",
+  "Motif": "PSLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q8IZT6",
+  "Position of Q (Gln)": "Q2028",
+  "Motif": "VTLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q8IZV5",
+  "Position of Q (Gln)": "Q96",
+  "Motif": "AALQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q8N0U4",
+  "Position of Q (Gln)": "Q184",
+  "Motif": "SILQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q8N0Z9",
+  "Position of Q (Gln)": "Q196",
+  "Motif": "PNLQ↓GN"
+ },
+ {
+  "Uniprot ID": "Q8N196",
+  "Position of Q (Gln)": "Q729",
+  "Motif": "TQLQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q8N1G1",
+  "Position of Q (Gln)": "Q798",
+  "Motif": "PSLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q8N1G4",
+  "Position of Q (Gln)": "Q132\/Q156",
+  "Motif": "PQLQ↓SL\/PRLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q8N1L4",
+  "Position of Q (Gln)": "Q305",
+  "Motif": "ADLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q8N1M1",
+  "Position of Q (Gln)": "Q208\/Q482",
+  "Motif": "VDLQ↓SL\/STLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q8N1N4",
+  "Position of Q (Gln)": "Q354",
+  "Motif": "ASLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q8N1W1",
+  "Position of Q (Gln)": "Q543",
+  "Motif": "SNLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q8N205",
+  "Position of Q (Gln)": "Q141",
+  "Motif": "VQLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q8N2C7",
+  "Position of Q (Gln)": "Q2409",
+  "Motif": "TSLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q8N3K9",
+  "Position of Q (Gln)": "Q3968",
+  "Motif": "SAVQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q8N3L3",
+  "Position of Q (Gln)": "Q357",
+  "Motif": "TVLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q8N3U4",
+  "Position of Q (Gln)": "Q822",
+  "Motif": "SSLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q8N3X1",
+  "Position of Q (Gln)": "Q697",
+  "Motif": "TLLQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q8N3Z6",
+  "Position of Q (Gln)": "Q124",
+  "Motif": "SSLQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q8N475",
+  "Position of Q (Gln)": "Q530",
+  "Motif": "VDVQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q8N4C6",
+  "Position of Q (Gln)": "Q834",
+  "Motif": "SALQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q8N4P2",
+  "Position of Q (Gln)": "Q182",
+  "Motif": "AALQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q8N4Z0",
+  "Position of Q (Gln)": "Q134",
+  "Motif": "SDLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q8N539",
+  "Position of Q (Gln)": "Q176",
+  "Motif": "SALQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q8N5A5",
+  "Position of Q (Gln)": "Q219",
+  "Motif": "SSLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q8N5C8",
+  "Position of Q (Gln)": "Q651",
+  "Motif": "SKVQ↓AD"
+ },
+ {
+  "Uniprot ID": "Q8N5G2",
+  "Position of Q (Gln)": "Q398",
+  "Motif": "ADLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q8N6M8",
+  "Position of Q (Gln)": "Q132",
+  "Motif": "VTLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q8N6Y0",
+  "Position of Q (Gln)": "Q379",
+  "Motif": "SDLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q8N743",
+  "Position of Q (Gln)": "Q235",
+  "Motif": "PTVQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q8N7R0",
+  "Position of Q (Gln)": "Q191",
+  "Motif": "SDLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q8N7W2",
+  "Position of Q (Gln)": "Q254",
+  "Motif": "SALQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q8N7X0",
+  "Position of Q (Gln)": "Q34",
+  "Motif": "SNVQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q8N7Z2",
+  "Position of Q (Gln)": "Q282",
+  "Motif": "AKLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q8N7Z5",
+  "Position of Q (Gln)": "Q96",
+  "Motif": "TILQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q8N8U3",
+  "Position of Q (Gln)": "Q34",
+  "Motif": "AALQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q8N8V2",
+  "Position of Q (Gln)": "Q476",
+  "Motif": "SILQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q8N957",
+  "Position of Q (Gln)": "Q571",
+  "Motif": "SKLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q8N9W4",
+  "Position of Q (Gln)": "Q906",
+  "Motif": "PSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q8NA29",
+  "Position of Q (Gln)": "Q22",
+  "Motif": "SILQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q8NAC3",
+  "Position of Q (Gln)": "Q193",
+  "Motif": "ASLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q8NAG6",
+  "Position of Q (Gln)": "Q423",
+  "Motif": "PDVQ↓AD"
+ },
+ {
+  "Uniprot ID": "Q8NB66",
+  "Position of Q (Gln)": "Q2008",
+  "Motif": "PDLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q8NBI6",
+  "Position of Q (Gln)": "Q115",
+  "Motif": "AALQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q8NBJ4",
+  "Position of Q (Gln)": "Q211\/Q303",
+  "Motif": "PRLQ↓AA\/PQVQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q8NBP7",
+  "Position of Q (Gln)": "Q190",
+  "Motif": "TSIQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q8NC38",
+  "Position of Q (Gln)": "Q81",
+  "Motif": "VDLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q8NC44",
+  "Position of Q (Gln)": "Q532",
+  "Motif": "SLVQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q8NCM8",
+  "Position of Q (Gln)": "Q2898",
+  "Motif": "SHLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q8NCN2",
+  "Position of Q (Gln)": "Q335",
+  "Motif": "SDLQ↓GL"
+ },
+ {
+  "Uniprot ID": "Q8NCP5",
+  "Position of Q (Gln)": "Q354",
+  "Motif": "PTLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q8NDA2",
+  "Position of Q (Gln)": "Q4605",
+  "Motif": "TALQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q8NDV3",
+  "Position of Q (Gln)": "Q738",
+  "Motif": "SQLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q8NDX5",
+  "Position of Q (Gln)": "Q493",
+  "Motif": "SSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q8NDX9",
+  "Position of Q (Gln)": "Q113",
+  "Motif": "PQLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q8NE35",
+  "Position of Q (Gln)": "Q498",
+  "Motif": "SSVQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q8NEG7",
+  "Position of Q (Gln)": "Q412",
+  "Motif": "SDVQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q8NEU8",
+  "Position of Q (Gln)": "Q396",
+  "Motif": "TALQ↓AV"
+ },
+ {
+  "Uniprot ID": "Q8NEY1",
+  "Position of Q (Gln)": "Q326\/Q1874",
+  "Motif": "PRLQ↓AG\/PNLQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q8NEZ4",
+  "Position of Q (Gln)": "Q1188",
+  "Motif": "TQLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q8NF91",
+  "Position of Q (Gln)": "Q146\/Q7348\/Q7644",
+  "Motif": "PQLQ↓SL\/TSLQ↓AG\/AALQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q8NFM4",
+  "Position of Q (Gln)": "Q248",
+  "Motif": "ARLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q8NFT6",
+  "Position of Q (Gln)": "Q316",
+  "Motif": "VHLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q8NFU7",
+  "Position of Q (Gln)": "Q947",
+  "Motif": "PNLQ↓GE"
+ },
+ {
+  "Uniprot ID": "Q8NFZ5",
+  "Position of Q (Gln)": "Q200",
+  "Motif": "TSVQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q8NGF8",
+  "Position of Q (Gln)": "Q22",
+  "Motif": "PAVQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q8NGZ5",
+  "Position of Q (Gln)": "Q162",
+  "Motif": "TLVQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q8NHR9",
+  "Position of Q (Gln)": "Q5",
+  "Motif": "SHLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q8NI36",
+  "Position of Q (Gln)": "Q933",
+  "Motif": "THLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q8TAB3",
+  "Position of Q (Gln)": "Q544",
+  "Motif": "PSLQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q8TB72",
+  "Position of Q (Gln)": "Q519",
+  "Motif": "TNLQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q8TBK2",
+  "Position of Q (Gln)": "Q117",
+  "Motif": "VALQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q8TBP6",
+  "Position of Q (Gln)": "Q170",
+  "Motif": "TKMQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q8TC56",
+  "Position of Q (Gln)": "Q403",
+  "Motif": "STLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q8TCP9",
+  "Position of Q (Gln)": "Q135",
+  "Motif": "TRLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q8TCS8",
+  "Position of Q (Gln)": "Q558",
+  "Motif": "TALQ↓AD"
+ },
+ {
+  "Uniprot ID": "Q8TCU4",
+  "Position of Q (Gln)": "Q760\/Q1046",
+  "Motif": "PAVQ↓SS\/PAVQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q8TD23",
+  "Position of Q (Gln)": "Q140",
+  "Motif": "PTMQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q8TDB8",
+  "Position of Q (Gln)": "Q222",
+  "Motif": "AILQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q8TDC3",
+  "Position of Q (Gln)": "Q723",
+  "Motif": "PSVQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q8TDF6",
+  "Position of Q (Gln)": "Q393",
+  "Motif": "VALQ↓GQ"
+ },
+ {
+  "Uniprot ID": "Q8TDI0",
+  "Position of Q (Gln)": "Q1223",
+  "Motif": "PDVQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q8TDQ7",
+  "Position of Q (Gln)": "Q115",
+  "Motif": "ADLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q8TDX9",
+  "Position of Q (Gln)": "Q1482",
+  "Motif": "SSVQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q8TE49",
+  "Position of Q (Gln)": "Q630",
+  "Motif": "AAMQ↓GE"
+ },
+ {
+  "Uniprot ID": "Q8TE73",
+  "Position of Q (Gln)": "Q1070",
+  "Motif": "AALQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q8TE77",
+  "Position of Q (Gln)": "Q607",
+  "Motif": "VTLQ↓GS"
+ },
+ {
+  "Uniprot ID": "Q8TEH3",
+  "Position of Q (Gln)": "Q725",
+  "Motif": "AKLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q8TEK3",
+  "Position of Q (Gln)": "Q1495",
+  "Motif": "SVLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q8TEX9",
+  "Position of Q (Gln)": "Q745",
+  "Motif": "AALQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q8TF17",
+  "Position of Q (Gln)": "Q961",
+  "Motif": "SQLQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q8TF61",
+  "Position of Q (Gln)": "Q90\/Q855",
+  "Motif": "TSFQ↓GK\/TKLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q8TF72",
+  "Position of Q (Gln)": "Q71",
+  "Motif": "SKLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q8WUA8",
+  "Position of Q (Gln)": "Q306",
+  "Motif": "PALQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q8WW38",
+  "Position of Q (Gln)": "Q207",
+  "Motif": "SRLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q8WWI1",
+  "Position of Q (Gln)": "Q374",
+  "Motif": "PTVQ↓GT"
+ },
+ {
+  "Uniprot ID": "Q8WWM1",
+  "Position of Q (Gln)": "Q86",
+  "Motif": "PDVQ↓GK"
+ },
+ {
+  "Uniprot ID": "Q8WWN8",
+  "Position of Q (Gln)": "Q375",
+  "Motif": "STLQ↓SC"
+ },
+ {
+  "Uniprot ID": "Q8WWQ8",
+  "Position of Q (Gln)": "Q1088\/Q1684",
+  "Motif": "TSLQ↓GN\/TSLQ↓GE"
+ },
+ {
+  "Uniprot ID": "Q8WWZ7",
+  "Position of Q (Gln)": "Q177",
+  "Motif": "TVLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q8WX92",
+  "Position of Q (Gln)": "Q45",
+  "Motif": "PSLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q8WX93",
+  "Position of Q (Gln)": "Q724",
+  "Motif": "PAMQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q8WXF5",
+  "Position of Q (Gln)": "Q158",
+  "Motif": "SSLQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q8WXH0",
+  "Position of Q (Gln)": "Q2673\/Q4773",
+  "Motif": "TDLQ↓AT\/VALQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q8WXI7",
+  "Position of Q (Gln)": "Q686\/Q3248\/Q4472",
+  "Motif": "SSLQ↓SS\/VTLQ↓ST\/STLQ↓GQ"
+ },
+ {
+  "Uniprot ID": "Q8WXK3",
+  "Position of Q (Gln)": "Q62",
+  "Motif": "ASLQ↓GQ"
+ },
+ {
+  "Uniprot ID": "Q8WY91",
+  "Position of Q (Gln)": "Q150",
+  "Motif": "AALQ↓GE"
+ },
+ {
+  "Uniprot ID": "Q8WYA1",
+  "Position of Q (Gln)": "Q425",
+  "Motif": "AVLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q8WZ42",
+  "Position of Q (Gln)": "Q4871\/Q29246\/Q33551\/Q34172",
+  "Motif": "VTLQ↓AA\/TDLQ↓AG\/SSVQ↓AS\/TSLQ↓GS"
+ },
+ {
+  "Uniprot ID": "Q8WZ79",
+  "Position of Q (Gln)": "Q230",
+  "Motif": "TTLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q8WZA9",
+  "Position of Q (Gln)": "Q169",
+  "Motif": "AALQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q92502",
+  "Position of Q (Gln)": "Q1015",
+  "Motif": "PTLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q92523",
+  "Position of Q (Gln)": "Q270",
+  "Motif": "TDVQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q92540",
+  "Position of Q (Gln)": "Q73",
+  "Motif": "TTLQ↓GQ"
+ },
+ {
+  "Uniprot ID": "Q92552",
+  "Position of Q (Gln)": "Q342",
+  "Motif": "SKLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q92610",
+  "Position of Q (Gln)": "Q292\/Q489\/Q928",
+  "Motif": "VALQ↓AK\/TALQ↓AS\/SSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q92614",
+  "Position of Q (Gln)": "Q646",
+  "Motif": "SKLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q92618",
+  "Position of Q (Gln)": "Q754\/Q1027",
+  "Motif": "SSLQ↓AA\/AALQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q92620",
+  "Position of Q (Gln)": "Q787",
+  "Motif": "SDLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q92674",
+  "Position of Q (Gln)": "Q495",
+  "Motif": "SVLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q92783",
+  "Position of Q (Gln)": "Q469",
+  "Motif": "SSVQ↓GN"
+ },
+ {
+  "Uniprot ID": "Q92793",
+  "Position of Q (Gln)": "Q919\/Q1194",
+  "Motif": "PTVQ↓AA\/PVMQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q92817",
+  "Position of Q (Gln)": "Q707",
+  "Motif": "AALQ↓NN"
+ },
+ {
+  "Uniprot ID": "Q92854",
+  "Position of Q (Gln)": "Q688",
+  "Motif": "PAVQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q92878",
+  "Position of Q (Gln)": "Q702",
+  "Motif": "SDLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q92973",
+  "Position of Q (Gln)": "Q606",
+  "Motif": "TALQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q92974",
+  "Position of Q (Gln)": "Q106",
+  "Motif": "TALQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q92995",
+  "Position of Q (Gln)": "Q563",
+  "Motif": "SALQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q93008",
+  "Position of Q (Gln)": "Q1199\/Q1203",
+  "Motif": "VVLQ↓SA\/SALQ↓SI"
+ },
+ {
+  "Uniprot ID": "Q93084",
+  "Position of Q (Gln)": "Q460",
+  "Motif": "TDLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q93086",
+  "Position of Q (Gln)": "Q63",
+  "Motif": "TSLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q969F8",
+  "Position of Q (Gln)": "Q127\/Q246",
+  "Motif": "VSVQ↓AT\/SALQ↓GQ"
+ },
+ {
+  "Uniprot ID": "Q969G9",
+  "Position of Q (Gln)": "Q206",
+  "Motif": "ADLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q969V6",
+  "Position of Q (Gln)": "Q55",
+  "Motif": "PSLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q96A65",
+  "Position of Q (Gln)": "Q578",
+  "Motif": "PLLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q96AA8",
+  "Position of Q (Gln)": "Q20",
+  "Motif": "VALQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q96AQ6",
+  "Position of Q (Gln)": "Q290",
+  "Motif": "AQLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q96AV8",
+  "Position of Q (Gln)": "Q817",
+  "Motif": "PQLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q96AX9",
+  "Position of Q (Gln)": "Q794",
+  "Motif": "SRLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q96AY4",
+  "Position of Q (Gln)": "Q1822\/Q1868",
+  "Motif": "STLQ↓SL\/VQLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q96BD0",
+  "Position of Q (Gln)": "Q719",
+  "Motif": "SQLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q96BH1",
+  "Position of Q (Gln)": "Q301",
+  "Motif": "PAVQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q96BJ3",
+  "Position of Q (Gln)": "Q78",
+  "Motif": "AALQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q96C45",
+  "Position of Q (Gln)": "Q941",
+  "Motif": "SLVQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q96CQ1",
+  "Position of Q (Gln)": "Q35",
+  "Motif": "TRLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q96CT2",
+  "Position of Q (Gln)": "Q381",
+  "Motif": "SNLQ↓AD"
+ },
+ {
+  "Uniprot ID": "Q96DT5",
+  "Position of Q (Gln)": "Q1508",
+  "Motif": "TLLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q96FK6",
+  "Position of Q (Gln)": "Q317",
+  "Motif": "TSLQ↓GG"
+ },
+ {
+  "Uniprot ID": "Q96G03",
+  "Position of Q (Gln)": "Q264",
+  "Motif": "SFVQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q96GD4",
+  "Position of Q (Gln)": "Q341",
+  "Motif": "SALQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q96GM8",
+  "Position of Q (Gln)": "Q40",
+  "Motif": "VDVQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q96GW7",
+  "Position of Q (Gln)": "Q626",
+  "Motif": "TSVQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q96HA1",
+  "Position of Q (Gln)": "Q683",
+  "Motif": "PTLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q96HA9",
+  "Position of Q (Gln)": "Q179",
+  "Motif": "AQMQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q96HP0",
+  "Position of Q (Gln)": "Q1029",
+  "Motif": "TRLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q96HY7",
+  "Position of Q (Gln)": "Q138",
+  "Motif": "SQLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q96I34",
+  "Position of Q (Gln)": "Q220",
+  "Motif": "SRLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q96IR7",
+  "Position of Q (Gln)": "Q218",
+  "Motif": "TALQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q96IW7",
+  "Position of Q (Gln)": "Q219",
+  "Motif": "SLLQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q96IZ5",
+  "Position of Q (Gln)": "Q395",
+  "Motif": "SNLQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q96JC1",
+  "Position of Q (Gln)": "Q769",
+  "Motif": "ANLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q96JE9",
+  "Position of Q (Gln)": "Q380",
+  "Motif": "PSVQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q96JK9",
+  "Position of Q (Gln)": "Q270\/Q950",
+  "Motif": "TILQ↓SK\/PRLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q96JM2",
+  "Position of Q (Gln)": "Q704\/Q1902",
+  "Motif": "SNLQ↓SK\/SKLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q96JN8",
+  "Position of Q (Gln)": "Q400",
+  "Motif": "TNLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q96JQ0",
+  "Position of Q (Gln)": "Q1240",
+  "Motif": "TTLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q96K17",
+  "Position of Q (Gln)": "Q10\/Q75",
+  "Motif": "AKLQ↓AQ\/PKVQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q96KN7",
+  "Position of Q (Gln)": "Q1268",
+  "Motif": "VSLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q96KQ7",
+  "Position of Q (Gln)": "Q145",
+  "Motif": "PSVQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q96KR1",
+  "Position of Q (Gln)": "Q558",
+  "Motif": "AALQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q96KR6",
+  "Position of Q (Gln)": "Q140",
+  "Motif": "SLVQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q96L91",
+  "Position of Q (Gln)": "Q2896",
+  "Motif": "SQLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q96L96",
+  "Position of Q (Gln)": "Q743",
+  "Motif": "STLQ↓GQ"
+ },
+ {
+  "Uniprot ID": "Q96LT4",
+  "Position of Q (Gln)": "Q105",
+  "Motif": "SALQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q96M02",
+  "Position of Q (Gln)": "Q676",
+  "Motif": "VILQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q96M86",
+  "Position of Q (Gln)": "Q3079",
+  "Motif": "PDLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q96MI6",
+  "Position of Q (Gln)": "Q64",
+  "Motif": "VSLQ↓GK"
+ },
+ {
+  "Uniprot ID": "Q96MK3",
+  "Position of Q (Gln)": "Q93",
+  "Motif": "SKLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q96MT8",
+  "Position of Q (Gln)": "Q277",
+  "Motif": "AALQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q96MU8",
+  "Position of Q (Gln)": "Q50",
+  "Motif": "TALQ↓GG"
+ },
+ {
+  "Uniprot ID": "Q96N11",
+  "Position of Q (Gln)": "Q33",
+  "Motif": "SQLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q96N23",
+  "Position of Q (Gln)": "Q2901",
+  "Motif": "SSVQ↓SI"
+ },
+ {
+  "Uniprot ID": "Q96N76",
+  "Position of Q (Gln)": "Q5",
+  "Motif": "SSLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q96NG3",
+  "Position of Q (Gln)": "Q75",
+  "Motif": "ASLQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q96P66",
+  "Position of Q (Gln)": "Q162",
+  "Motif": "AILQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q96P71",
+  "Position of Q (Gln)": "Q154",
+  "Motif": "SQLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q96PC5",
+  "Position of Q (Gln)": "Q973",
+  "Motif": "ASLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q96PD2",
+  "Position of Q (Gln)": "Q615",
+  "Motif": "TVLQ↓AD"
+ },
+ {
+  "Uniprot ID": "Q96PD5",
+  "Position of Q (Gln)": "Q200",
+  "Motif": "PDVQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q96PF1",
+  "Position of Q (Gln)": "Q15",
+  "Motif": "VDLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q96PH1",
+  "Position of Q (Gln)": "Q151",
+  "Motif": "TVLQ↓SC"
+ },
+ {
+  "Uniprot ID": "Q96PP9",
+  "Position of Q (Gln)": "Q491",
+  "Motif": "SILQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q96PQ0",
+  "Position of Q (Gln)": "Q663",
+  "Motif": "SNLQ↓GD"
+ },
+ {
+  "Uniprot ID": "Q96PY0",
+  "Position of Q (Gln)": "Q175",
+  "Motif": "PQVQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q96Q15",
+  "Position of Q (Gln)": "Q2229",
+  "Motif": "AALQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q96Q42",
+  "Position of Q (Gln)": "Q45",
+  "Motif": "TVLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q96Q89",
+  "Position of Q (Gln)": "Q1745",
+  "Motif": "SILQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q96QE2",
+  "Position of Q (Gln)": "Q52",
+  "Motif": "TSLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q96RG2",
+  "Position of Q (Gln)": "Q245",
+  "Motif": "VAFQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q96RK0",
+  "Position of Q (Gln)": "Q890\/Q1377",
+  "Motif": "PILQ↓SV\/PTLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q96RL7",
+  "Position of Q (Gln)": "Q2841",
+  "Motif": "SDLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q96RN1",
+  "Position of Q (Gln)": "Q602",
+  "Motif": "TNLQ↓GG"
+ },
+ {
+  "Uniprot ID": "Q96RT6",
+  "Position of Q (Gln)": "Q335",
+  "Motif": "ASLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q96RT7",
+  "Position of Q (Gln)": "Q1464",
+  "Motif": "PQVQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q96RV3",
+  "Position of Q (Gln)": "Q615\/Q1227",
+  "Motif": "SSVQ↓SA\/SLVQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q96RW7",
+  "Position of Q (Gln)": "Q4745",
+  "Motif": "SDVQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q96S82",
+  "Position of Q (Gln)": "Q335",
+  "Motif": "PSLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q96S90",
+  "Position of Q (Gln)": "Q29",
+  "Motif": "SLVQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q96SB8",
+  "Position of Q (Gln)": "Q625",
+  "Motif": "AVMQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q96SD1",
+  "Position of Q (Gln)": "Q470",
+  "Motif": "ASLQ↓GD"
+ },
+ {
+  "Uniprot ID": "Q96SN8",
+  "Position of Q (Gln)": "Q965\/Q1247",
+  "Motif": "TQLQ↓SQ\/SLVQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q96ST8",
+  "Position of Q (Gln)": "Q546",
+  "Motif": "TVLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q99102",
+  "Position of Q (Gln)": "Q719",
+  "Motif": "TALQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q99626",
+  "Position of Q (Gln)": "Q289",
+  "Motif": "SSLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q99666",
+  "Position of Q (Gln)": "Q267",
+  "Motif": "SALQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q99683",
+  "Position of Q (Gln)": "Q430",
+  "Motif": "PTLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q99698",
+  "Position of Q (Gln)": "Q3057",
+  "Motif": "SSLQ↓GE"
+ },
+ {
+  "Uniprot ID": "Q99743",
+  "Position of Q (Gln)": "Q486",
+  "Motif": "TVLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q99758",
+  "Position of Q (Gln)": "Q1085",
+  "Motif": "SALQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q99811",
+  "Position of Q (Gln)": "Q117",
+  "Motif": "SQLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q99996",
+  "Position of Q (Gln)": "Q1851\/Q3327",
+  "Motif": "SRLQ↓AA\/AQLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9BPX7",
+  "Position of Q (Gln)": "Q65",
+  "Motif": "SHLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q9BQ04",
+  "Position of Q (Gln)": "Q255",
+  "Motif": "PQVQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q9BQG0",
+  "Position of Q (Gln)": "Q765",
+  "Motif": "TVLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q9BQI6",
+  "Position of Q (Gln)": "Q105",
+  "Motif": "PQMQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q9BQS8",
+  "Position of Q (Gln)": "Q703\/Q796",
+  "Motif": "AILQ↓SK\/VDLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q9BR11",
+  "Position of Q (Gln)": "Q199",
+  "Motif": "TSLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q9BRG2",
+  "Position of Q (Gln)": "Q242",
+  "Motif": "PSVQ↓GT"
+ },
+ {
+  "Uniprot ID": "Q9BRQ8",
+  "Position of Q (Gln)": "Q31",
+  "Motif": "SQLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q9BRZ2",
+  "Position of Q (Gln)": "Q559",
+  "Motif": "AALQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q9BSK2",
+  "Position of Q (Gln)": "Q40",
+  "Motif": "TRLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9BSY9",
+  "Position of Q (Gln)": "Q156",
+  "Motif": "AALQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9BTA9",
+  "Position of Q (Gln)": "Q371",
+  "Motif": "PALQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q9BTY7",
+  "Position of Q (Gln)": "Q38",
+  "Motif": "ADLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9BTZ2",
+  "Position of Q (Gln)": "Q77",
+  "Motif": "ATLQ↓GE"
+ },
+ {
+  "Uniprot ID": "Q9BU20",
+  "Position of Q (Gln)": "Q102",
+  "Motif": "AKLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q9BUB4",
+  "Position of Q (Gln)": "Q381",
+  "Motif": "SAVQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q9BV38",
+  "Position of Q (Gln)": "Q155",
+  "Motif": "SVLQ↓AD"
+ },
+ {
+  "Uniprot ID": "Q9BV73",
+  "Position of Q (Gln)": "Q1978\/Q2002",
+  "Motif": "AALQ↓GK\/ATLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q9BVI4",
+  "Position of Q (Gln)": "Q39",
+  "Motif": "AVLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q9BVQ7",
+  "Position of Q (Gln)": "Q271",
+  "Motif": "PALQ↓GS"
+ },
+ {
+  "Uniprot ID": "Q9BWG6",
+  "Position of Q (Gln)": "Q154",
+  "Motif": "VKLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q9BWT1",
+  "Position of Q (Gln)": "Q52",
+  "Motif": "TRLQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q9BX97",
+  "Position of Q (Gln)": "Q61\/Q337",
+  "Motif": "SNLQ↓AT\/AKLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q9BXB1",
+  "Position of Q (Gln)": "Q132\/Q180",
+  "Motif": "SALQ↓SL\/PTLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q9BXB7",
+  "Position of Q (Gln)": "Q363",
+  "Motif": "TDLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q9BXT6",
+  "Position of Q (Gln)": "Q1181",
+  "Motif": "PALQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q9BXU1",
+  "Position of Q (Gln)": "Q603",
+  "Motif": "ATVQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q9BXW9",
+  "Position of Q (Gln)": "Q317",
+  "Motif": "SRLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q9BY27",
+  "Position of Q (Gln)": "Q29",
+  "Motif": "SALQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q9BY79",
+  "Position of Q (Gln)": "Q93",
+  "Motif": "AQLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9BYE9",
+  "Position of Q (Gln)": "Q1013",
+  "Motif": "STLQ↓GT"
+ },
+ {
+  "Uniprot ID": "Q9BYV8",
+  "Position of Q (Gln)": "Q140",
+  "Motif": "STLQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q9BYW2",
+  "Position of Q (Gln)": "Q884",
+  "Motif": "SSLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q9BZC7",
+  "Position of Q (Gln)": "Q71\/Q1373",
+  "Motif": "PVMQ↓SL\/ASLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q9BZE4",
+  "Position of Q (Gln)": "Q311",
+  "Motif": "TDLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q9BZE9",
+  "Position of Q (Gln)": "Q157",
+  "Motif": "TTLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q9BZF9",
+  "Position of Q (Gln)": "Q1205",
+  "Motif": "SKLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q9BZG8",
+  "Position of Q (Gln)": "Q48\/Q191",
+  "Motif": "PQLQ↓AA\/STLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9BZI1",
+  "Position of Q (Gln)": "Q403",
+  "Motif": "AALQ↓GQ"
+ },
+ {
+  "Uniprot ID": "Q9BZJ4",
+  "Position of Q (Gln)": "Q69\/Q190",
+  "Motif": "SSLQ↓ST\/TKLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q9BZV3",
+  "Position of Q (Gln)": "Q406",
+  "Motif": "SSLQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q9C005",
+  "Position of Q (Gln)": "Q49",
+  "Motif": "VDLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q9C009",
+  "Position of Q (Gln)": "Q383",
+  "Motif": "AALQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9C035",
+  "Position of Q (Gln)": "Q143",
+  "Motif": "VKLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9C040",
+  "Position of Q (Gln)": "Q78",
+  "Motif": "AALQ↓NN"
+ },
+ {
+  "Uniprot ID": "Q9C0B0",
+  "Position of Q (Gln)": "Q555",
+  "Motif": "SLLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9C0C6",
+  "Position of Q (Gln)": "Q376",
+  "Motif": "AKLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q9C0C7",
+  "Position of Q (Gln)": "Q230\/Q375",
+  "Motif": "ALLQ↓SQ\/STVQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9C0F0",
+  "Position of Q (Gln)": "Q142",
+  "Motif": "TAVQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9C0G6",
+  "Position of Q (Gln)": "Q825",
+  "Motif": "VKLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q9C0H9",
+  "Position of Q (Gln)": "Q444",
+  "Motif": "AALQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q9C0I3",
+  "Position of Q (Gln)": "Q197",
+  "Motif": "PVLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q9GIP4",
+  "Position of Q (Gln)": "Q47",
+  "Motif": "VTLQ↓GN"
+ },
+ {
+  "Uniprot ID": "Q9GZK3",
+  "Position of Q (Gln)": "Q159",
+  "Motif": "SVLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q9GZM8",
+  "Position of Q (Gln)": "Q211",
+  "Motif": "SAVQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q9GZQ3",
+  "Position of Q (Gln)": "Q60",
+  "Motif": "SSLQ↓GE"
+ },
+ {
+  "Uniprot ID": "Q9GZQ4",
+  "Position of Q (Gln)": "Q157",
+  "Motif": "AKLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q9GZZ9",
+  "Position of Q (Gln)": "Q129",
+  "Motif": "SKVQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9H040",
+  "Position of Q (Gln)": "Q46",
+  "Motif": "PDLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q9H091",
+  "Position of Q (Gln)": "Q632",
+  "Motif": "PRLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q9H0A8",
+  "Position of Q (Gln)": "Q148",
+  "Motif": "SLLQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q9H0F5",
+  "Position of Q (Gln)": "Q29",
+  "Motif": "VRLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q9H0V9",
+  "Position of Q (Gln)": "Q92",
+  "Motif": "PDMQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9H159",
+  "Position of Q (Gln)": "Q769",
+  "Motif": "SAVQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q9H173",
+  "Position of Q (Gln)": "Q426",
+  "Motif": "ASLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q9H1B5",
+  "Position of Q (Gln)": "Q644",
+  "Motif": "SRLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q9H251",
+  "Position of Q (Gln)": "Q406",
+  "Motif": "TSVQ↓GK"
+ },
+ {
+  "Uniprot ID": "Q9H2A7",
+  "Position of Q (Gln)": "Q146",
+  "Motif": "STLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q9H2D6",
+  "Position of Q (Gln)": "Q1647",
+  "Motif": "PALQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q9H2K8",
+  "Position of Q (Gln)": "Q242",
+  "Motif": "PTLQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q9H2M9",
+  "Position of Q (Gln)": "Q918",
+  "Motif": "SSLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q9H2P0",
+  "Position of Q (Gln)": "Q1020",
+  "Motif": "ATMQ↓GD"
+ },
+ {
+  "Uniprot ID": "Q9H306",
+  "Position of Q (Gln)": "Q330",
+  "Motif": "ADLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9H307",
+  "Position of Q (Gln)": "Q113\/Q495",
+  "Motif": "PALQ↓SS\/PVLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q9H334",
+  "Position of Q (Gln)": "Q574",
+  "Motif": "AALQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q9H3T2",
+  "Position of Q (Gln)": "Q39",
+  "Motif": "SDLQ↓GT"
+ },
+ {
+  "Uniprot ID": "Q9H3Z4",
+  "Position of Q (Gln)": "Q160",
+  "Motif": "AQLQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q9H427",
+  "Position of Q (Gln)": "Q209",
+  "Motif": "VALQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q9H4A3",
+  "Position of Q (Gln)": "Q699",
+  "Motif": "STVQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q9H4M7",
+  "Position of Q (Gln)": "Q776",
+  "Motif": "TLLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9H4Z2",
+  "Position of Q (Gln)": "Q231\/Q760\/Q1166",
+  "Motif": "PDLQ↓SL\/TTFQ↓SS\/TALQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9H6K5",
+  "Position of Q (Gln)": "Q346\/Q509\/Q612\/Q623",
+  "Motif": "AALQ↓SQ\/PSLQ↓AT\/SSLQ↓AT\/PTLQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q9H6N6",
+  "Position of Q (Gln)": "Q347",
+  "Motif": "AALQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q9H6Q3",
+  "Position of Q (Gln)": "Q21\/Q170",
+  "Motif": "SSVQ↓GQ\/PSLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q9H6R4",
+  "Position of Q (Gln)": "Q483",
+  "Motif": "SRLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9H790",
+  "Position of Q (Gln)": "Q158",
+  "Motif": "PTLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q9H799",
+  "Position of Q (Gln)": "Q817",
+  "Motif": "ANLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q9H7N4",
+  "Position of Q (Gln)": "Q48\/Q834",
+  "Motif": "SSLQ↓GD\/VKLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9H7Z6",
+  "Position of Q (Gln)": "Q401",
+  "Motif": "STLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q9H8L6",
+  "Position of Q (Gln)": "Q33\/Q534",
+  "Motif": "SDLQ↓SS\/SSLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q9H936",
+  "Position of Q (Gln)": "Q254",
+  "Motif": "TRLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q9H9B1",
+  "Position of Q (Gln)": "Q133",
+  "Motif": "PALQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q9H9J2",
+  "Position of Q (Gln)": "Q204",
+  "Motif": "ALLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9H9J4",
+  "Position of Q (Gln)": "Q564",
+  "Motif": "SAVQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q9HA90",
+  "Position of Q (Gln)": "Q222",
+  "Motif": "AALQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9HBB8",
+  "Position of Q (Gln)": "Q150",
+  "Motif": "TQLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q9HBG4",
+  "Position of Q (Gln)": "Q358\/Q672",
+  "Motif": "TTVQ↓SK\/SQLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q9HBM0",
+  "Position of Q (Gln)": "Q483",
+  "Motif": "PHVQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q9HBT6",
+  "Position of Q (Gln)": "Q764",
+  "Motif": "SSLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q9HBX8",
+  "Position of Q (Gln)": "Q141\/Q401",
+  "Motif": "PSLQ↓SL\/SSLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q9HCC8",
+  "Position of Q (Gln)": "Q154",
+  "Motif": "VSLQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q9HCD6",
+  "Position of Q (Gln)": "Q356",
+  "Motif": "AQLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9HCE3",
+  "Position of Q (Gln)": "Q577",
+  "Motif": "SSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9HCE7",
+  "Position of Q (Gln)": "Q247",
+  "Motif": "TTVQ↓GQ"
+ },
+ {
+  "Uniprot ID": "Q9HCG7",
+  "Position of Q (Gln)": "Q816",
+  "Motif": "SSVQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q9HCG8",
+  "Position of Q (Gln)": "Q203",
+  "Motif": "SVLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q9HCI5",
+  "Position of Q (Gln)": "Q225",
+  "Motif": "TSVQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q9HCI6",
+  "Position of Q (Gln)": "Q544",
+  "Motif": "TALQ↓SR"
+ },
+ {
+  "Uniprot ID": "Q9HCJ0",
+  "Position of Q (Gln)": "Q1121",
+  "Motif": "PQVQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q9HCJ5",
+  "Position of Q (Gln)": "Q239",
+  "Motif": "PAIQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q9HCK0",
+  "Position of Q (Gln)": "Q76",
+  "Motif": "SILQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9HCK1",
+  "Position of Q (Gln)": "Q1882",
+  "Motif": "ADLQ↓GK"
+ },
+ {
+  "Uniprot ID": "Q9HCM1",
+  "Position of Q (Gln)": "Q153",
+  "Motif": "PALQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q9HCM2",
+  "Position of Q (Gln)": "Q1395",
+  "Motif": "TVLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9HCM3",
+  "Position of Q (Gln)": "Q679",
+  "Motif": "SDLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9HCN3",
+  "Position of Q (Gln)": "Q315",
+  "Motif": "PLLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9HCN6",
+  "Position of Q (Gln)": "Q31",
+  "Motif": "PSLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q9HCS4",
+  "Position of Q (Gln)": "Q576",
+  "Motif": "PVLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q9N2J8",
+  "Position of Q (Gln)": "Q443",
+  "Motif": "SVLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q9N2K0",
+  "Position of Q (Gln)": "Q443",
+  "Motif": "SVLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q9NP58",
+  "Position of Q (Gln)": "Q83",
+  "Motif": "ATLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9NPC2",
+  "Position of Q (Gln)": "Q294",
+  "Motif": "PDLQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q9NQ87",
+  "Position of Q (Gln)": "Q277",
+  "Motif": "PLLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9NR09",
+  "Position of Q (Gln)": "Q103\/Q2051",
+  "Motif": "ATLQ↓AS\/AVLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q9NR16",
+  "Position of Q (Gln)": "Q318",
+  "Motif": "PHLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q9NR48",
+  "Position of Q (Gln)": "Q705",
+  "Motif": "TSLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9NR99",
+  "Position of Q (Gln)": "Q1824\/Q2585",
+  "Motif": "SSVQ↓SS\/TDLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q9NRC6",
+  "Position of Q (Gln)": "Q378\/Q3300",
+  "Motif": "TALQ↓AQ\/ATLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q9NRD9",
+  "Position of Q (Gln)": "Q376",
+  "Motif": "PSLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q9NRE2",
+  "Position of Q (Gln)": "Q699",
+  "Motif": "SALQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q9NRM1",
+  "Position of Q (Gln)": "Q979",
+  "Motif": "SSLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9NRY4",
+  "Position of Q (Gln)": "Q805\/Q1494",
+  "Motif": "PVLQ↓SQ\/SQLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q9NRY5",
+  "Position of Q (Gln)": "Q163",
+  "Motif": "TAVQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q9NRZ9",
+  "Position of Q (Gln)": "Q703",
+  "Motif": "SDLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q9NS87",
+  "Position of Q (Gln)": "Q381\/Q730",
+  "Motif": "SQLQ↓AE\/SALQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q9NSI5",
+  "Position of Q (Gln)": "Q197",
+  "Motif": "SDLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q9NSY1",
+  "Position of Q (Gln)": "Q730",
+  "Motif": "TSVQ↓GQ"
+ },
+ {
+  "Uniprot ID": "Q9NT22",
+  "Position of Q (Gln)": "Q581\/Q645",
+  "Motif": "SSLQ↓GE\/SRLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q9NT68",
+  "Position of Q (Gln)": "Q2055",
+  "Motif": "VNLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q9NTG1",
+  "Position of Q (Gln)": "Q337",
+  "Motif": "SSLQ↓AV"
+ },
+ {
+  "Uniprot ID": "Q9NTJ3",
+  "Position of Q (Gln)": "Q741",
+  "Motif": "VTLQ↓GQ"
+ },
+ {
+  "Uniprot ID": "Q9NUL7",
+  "Position of Q (Gln)": "Q155",
+  "Motif": "TTVQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9NUQ8",
+  "Position of Q (Gln)": "Q252\/Q455",
+  "Motif": "PALQ↓SV\/SQVQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9NV66",
+  "Position of Q (Gln)": "Q241",
+  "Motif": "SQLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q9NVE4",
+  "Position of Q (Gln)": "Q570",
+  "Motif": "PSLQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q9NVE5",
+  "Position of Q (Gln)": "Q416",
+  "Motif": "SSLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q9NVH2",
+  "Position of Q (Gln)": "Q859",
+  "Motif": "STLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9NVP1",
+  "Position of Q (Gln)": "Q101",
+  "Motif": "AAMQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9NWB1",
+  "Position of Q (Gln)": "Q383",
+  "Motif": "SSLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q9NWB7",
+  "Position of Q (Gln)": "Q403",
+  "Motif": "TLLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9NWH9",
+  "Position of Q (Gln)": "Q786",
+  "Motif": "SAVQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9NX38",
+  "Position of Q (Gln)": "Q58",
+  "Motif": "PVLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q9NX63",
+  "Position of Q (Gln)": "Q187",
+  "Motif": "ADLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q9NX65",
+  "Position of Q (Gln)": "Q27",
+  "Motif": "SALQ↓GN"
+ },
+ {
+  "Uniprot ID": "Q9NXE4",
+  "Position of Q (Gln)": "Q350",
+  "Motif": "PSLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q9NXR1",
+  "Position of Q (Gln)": "Q207",
+  "Motif": "TAVQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q9NY97",
+  "Position of Q (Gln)": "Q391",
+  "Motif": "SQLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q9NYF0",
+  "Position of Q (Gln)": "Q448",
+  "Motif": "SDLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9NYM4",
+  "Position of Q (Gln)": "Q407",
+  "Motif": "SQLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q9NYQ7",
+  "Position of Q (Gln)": "Q3262",
+  "Motif": "SSVQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9NYQ8",
+  "Position of Q (Gln)": "Q2154",
+  "Motif": "PSLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q9NYY8",
+  "Position of Q (Gln)": "Q707",
+  "Motif": "VNVQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q9NZ20",
+  "Position of Q (Gln)": "Q112",
+  "Motif": "ATLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q9NZB2",
+  "Position of Q (Gln)": "Q373",
+  "Motif": "TSLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q9NZJ4",
+  "Position of Q (Gln)": "Q79\/Q1143",
+  "Motif": "VNLQ↓SK\/TLLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9NZL6",
+  "Position of Q (Gln)": "Q336",
+  "Motif": "SALQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q9NZM3",
+  "Position of Q (Gln)": "Q274",
+  "Motif": "ALLQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q9NZP6",
+  "Position of Q (Gln)": "Q712\/Q837",
+  "Motif": "VILQ↓SA\/VILQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q9P055",
+  "Position of Q (Gln)": "Q206",
+  "Motif": "TVLQ↓AV"
+ },
+ {
+  "Uniprot ID": "Q9P0V3",
+  "Position of Q (Gln)": "Q254",
+  "Motif": "SVLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q9P109",
+  "Position of Q (Gln)": "Q363",
+  "Motif": "SDLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9P1W8",
+  "Position of Q (Gln)": "Q234",
+  "Motif": "VTLQ↓GD"
+ },
+ {
+  "Uniprot ID": "Q9P203",
+  "Position of Q (Gln)": "Q452",
+  "Motif": "TAIQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q9P209",
+  "Position of Q (Gln)": "Q419",
+  "Motif": "TALQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9P218",
+  "Position of Q (Gln)": "Q802",
+  "Motif": "PDLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9P219",
+  "Position of Q (Gln)": "Q1070",
+  "Motif": "AALQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q9P225",
+  "Position of Q (Gln)": "Q2431\/Q4294",
+  "Motif": "SVLQ↓SL\/AVLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9P260",
+  "Position of Q (Gln)": "Q753",
+  "Motif": "SALQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q9P267",
+  "Position of Q (Gln)": "Q967",
+  "Motif": "THLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q9P272",
+  "Position of Q (Gln)": "Q28",
+  "Motif": "SDLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9P273",
+  "Position of Q (Gln)": "Q1983",
+  "Motif": "VNLQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q9P286",
+  "Position of Q (Gln)": "Q389",
+  "Motif": "PSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9P2D0",
+  "Position of Q (Gln)": "Q528",
+  "Motif": "AILQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q9P2D6",
+  "Position of Q (Gln)": "Q1464",
+  "Motif": "PVLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9P2E9",
+  "Position of Q (Gln)": "Q923\/Q1125",
+  "Motif": "SKLQ↓SS\/STLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q9P2J3",
+  "Position of Q (Gln)": "Q287",
+  "Motif": "PVMQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q9P2K5",
+  "Position of Q (Gln)": "Q227",
+  "Motif": "SNLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q9P2M7",
+  "Position of Q (Gln)": "Q1066",
+  "Motif": "TVLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q9P2N5",
+  "Position of Q (Gln)": "Q682",
+  "Motif": "PTLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9P2N7",
+  "Position of Q (Gln)": "Q59\/Q329",
+  "Motif": "SHLQ↓SS\/PVMQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q9P2P1",
+  "Position of Q (Gln)": "Q490\/Q1496",
+  "Motif": "PQLQ↓AG\/ARLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q9P2P6",
+  "Position of Q (Gln)": "Q3378",
+  "Motif": "TSLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q9P2R6",
+  "Position of Q (Gln)": "Q908",
+  "Motif": "SALQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q9UBB6",
+  "Position of Q (Gln)": "Q587",
+  "Motif": "PALQ↓GT"
+ },
+ {
+  "Uniprot ID": "Q9UBB9",
+  "Position of Q (Gln)": "Q830",
+  "Motif": "TSLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q9UBD0",
+  "Position of Q (Gln)": "Q34",
+  "Motif": "PQLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q9UBD5",
+  "Position of Q (Gln)": "Q137",
+  "Motif": "VSLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q9UBP6",
+  "Position of Q (Gln)": "Q265",
+  "Motif": "PVLQ↓AV"
+ },
+ {
+  "Uniprot ID": "Q9UBU6",
+  "Position of Q (Gln)": "Q210",
+  "Motif": "PHVQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q9UBY8",
+  "Position of Q (Gln)": "Q154",
+  "Motif": "VNLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q9UBZ9",
+  "Position of Q (Gln)": "Q841\/Q1145",
+  "Motif": "PSVQ↓SS\/SSLQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q9UDV7",
+  "Position of Q (Gln)": "Q422",
+  "Motif": "PQLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q9UDY2",
+  "Position of Q (Gln)": "Q128",
+  "Motif": "AALQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q9UFD9",
+  "Position of Q (Gln)": "Q606",
+  "Motif": "TQLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9UFV1",
+  "Position of Q (Gln)": "Q96",
+  "Motif": "SSLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q9UGI0",
+  "Position of Q (Gln)": "Q450",
+  "Motif": "SVLQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q9UGI6",
+  "Position of Q (Gln)": "Q92",
+  "Motif": "AQLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q9UGM6",
+  "Position of Q (Gln)": "Q164",
+  "Motif": "PVLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9UHF7",
+  "Position of Q (Gln)": "Q387",
+  "Motif": "PALQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9UHG3",
+  "Position of Q (Gln)": "Q112",
+  "Motif": "SAVQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q9UHP3",
+  "Position of Q (Gln)": "Q778",
+  "Motif": "TVLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q9UHV7",
+  "Position of Q (Gln)": "Q2108",
+  "Motif": "PSVQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q9UIF8",
+  "Position of Q (Gln)": "Q516",
+  "Motif": "TKMQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9UIQ6",
+  "Position of Q (Gln)": "Q535",
+  "Motif": "SSVQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9UIW2",
+  "Position of Q (Gln)": "Q102\/Q1398",
+  "Motif": "PSVQ↓SC\/TALQ↓GE"
+ },
+ {
+  "Uniprot ID": "Q9UJ14",
+  "Position of Q (Gln)": "Q601",
+  "Motif": "PDLQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q9UJ55",
+  "Position of Q (Gln)": "Q537",
+  "Motif": "PQVQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9UJ98",
+  "Position of Q (Gln)": "Q834",
+  "Motif": "ATLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q9UJK0",
+  "Position of Q (Gln)": "Q37",
+  "Motif": "AALQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q9UJW0",
+  "Position of Q (Gln)": "Q6",
+  "Motif": "SLLQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q9UJW7",
+  "Position of Q (Gln)": "Q127",
+  "Motif": "VNLQ↓GK"
+ },
+ {
+  "Uniprot ID": "Q9UJX5",
+  "Position of Q (Gln)": "Q353",
+  "Motif": "SHLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q9UK97",
+  "Position of Q (Gln)": "Q40",
+  "Motif": "TDLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q9UKA2",
+  "Position of Q (Gln)": "Q404\/Q519",
+  "Motif": "PNLQ↓AL\/PTLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9UKA4",
+  "Position of Q (Gln)": "Q32",
+  "Motif": "SLLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q9UKC9",
+  "Position of Q (Gln)": "Q315",
+  "Motif": "PKLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q9UKW6",
+  "Position of Q (Gln)": "Q171",
+  "Motif": "TSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9UKX2",
+  "Position of Q (Gln)": "Q1097",
+  "Motif": "SNLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9UKX3",
+  "Position of Q (Gln)": "Q1095",
+  "Motif": "SQLQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q9UKY7",
+  "Position of Q (Gln)": "Q199",
+  "Motif": "PSLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q9UL25",
+  "Position of Q (Gln)": "Q53",
+  "Motif": "TTLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q9UL54",
+  "Position of Q (Gln)": "Q246",
+  "Motif": "PVLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q9ULB1",
+  "Position of Q (Gln)": "Q1314",
+  "Motif": "TAMQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q9ULC0",
+  "Position of Q (Gln)": "Q120",
+  "Motif": "STLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9ULC8",
+  "Position of Q (Gln)": "Q647",
+  "Motif": "SSLQ↓AD"
+ },
+ {
+  "Uniprot ID": "Q9ULE4",
+  "Position of Q (Gln)": "Q266\/Q606",
+  "Motif": "SALQ↓AQ\/AKLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q9ULG1",
+  "Position of Q (Gln)": "Q324",
+  "Motif": "AALQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q9ULH7",
+  "Position of Q (Gln)": "Q115",
+  "Motif": "PSLQ↓AT"
+ },
+ {
+  "Uniprot ID": "Q9ULI3",
+  "Position of Q (Gln)": "Q494",
+  "Motif": "STVQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q9ULJ7",
+  "Position of Q (Gln)": "Q153\/Q1017",
+  "Motif": "PAVQ↓SL\/SALQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q9ULJ8",
+  "Position of Q (Gln)": "Q702",
+  "Motif": "TKLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9ULL4",
+  "Position of Q (Gln)": "Q404",
+  "Motif": "AALQ↓AD"
+ },
+ {
+  "Uniprot ID": "Q9ULM3",
+  "Position of Q (Gln)": "Q792",
+  "Motif": "ANLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q9ULN7",
+  "Position of Q (Gln)": "Q228",
+  "Motif": "ATLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9ULQ0",
+  "Position of Q (Gln)": "Q93",
+  "Motif": "TQVQ↓GK"
+ },
+ {
+  "Uniprot ID": "Q9ULT0",
+  "Position of Q (Gln)": "Q245",
+  "Motif": "AALQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q9ULT8",
+  "Position of Q (Gln)": "Q311\/Q1972",
+  "Motif": "SALQ↓GD\/STLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9ULV0",
+  "Position of Q (Gln)": "Q1348",
+  "Motif": "AQLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q9ULV3",
+  "Position of Q (Gln)": "Q554",
+  "Motif": "TILQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9ULX6",
+  "Position of Q (Gln)": "Q15",
+  "Motif": "TTLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q9UMD9",
+  "Position of Q (Gln)": "Q147\/Q333",
+  "Motif": "VRLQ↓SA\/TSVQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q9UMS6",
+  "Position of Q (Gln)": "Q1020",
+  "Motif": "TNVQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q9UMZ3",
+  "Position of Q (Gln)": "Q1484",
+  "Motif": "SDVQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q9UN71",
+  "Position of Q (Gln)": "Q683",
+  "Motif": "SDLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q9UNA4",
+  "Position of Q (Gln)": "Q663",
+  "Motif": "PNLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q9UNF1",
+  "Position of Q (Gln)": "Q263",
+  "Motif": "AKLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9UNH5",
+  "Position of Q (Gln)": "Q588",
+  "Motif": "PSLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q9UNH7",
+  "Position of Q (Gln)": "Q27",
+  "Motif": "VDLQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q9UP38",
+  "Position of Q (Gln)": "Q585",
+  "Motif": "PHLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q9UPA5",
+  "Position of Q (Gln)": "Q3736",
+  "Motif": "AALQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9UPG8",
+  "Position of Q (Gln)": "Q454",
+  "Motif": "TTLQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q9UPI3",
+  "Position of Q (Gln)": "Q22",
+  "Motif": "SALQ↓AD"
+ },
+ {
+  "Uniprot ID": "Q9UPN6",
+  "Position of Q (Gln)": "Q234",
+  "Motif": "VQLQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q9UPP1",
+  "Position of Q (Gln)": "Q768",
+  "Motif": "ANLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9UPR3",
+  "Position of Q (Gln)": "Q993",
+  "Motif": "AALQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9UPR6",
+  "Position of Q (Gln)": "Q114",
+  "Motif": "AALQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q9UPS8",
+  "Position of Q (Gln)": "Q1140",
+  "Motif": "SQLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q9UPW8",
+  "Position of Q (Gln)": "Q1492",
+  "Motif": "PDLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q9UQ07",
+  "Position of Q (Gln)": "Q369",
+  "Motif": "PTLQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q9UQ35",
+  "Position of Q (Gln)": "Q1087",
+  "Motif": "PSLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9UQ80",
+  "Position of Q (Gln)": "Q359",
+  "Motif": "ALLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9UQB3",
+  "Position of Q (Gln)": "Q338\/Q567",
+  "Motif": "PTVQ↓ST\/PSVQ↓SN"
+ },
+ {
+  "Uniprot ID": "Q9UQF0",
+  "Position of Q (Gln)": "Q492",
+  "Motif": "PKMQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9UQQ2",
+  "Position of Q (Gln)": "Q251",
+  "Motif": "PKLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9Y275",
+  "Position of Q (Gln)": "Q73",
+  "Motif": "AALQ↓GD"
+ },
+ {
+  "Uniprot ID": "Q9Y283",
+  "Position of Q (Gln)": "Q681",
+  "Motif": "SDLQ↓GT"
+ },
+ {
+  "Uniprot ID": "Q9Y289",
+  "Position of Q (Gln)": "Q425",
+  "Motif": "PVLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9Y294",
+  "Position of Q (Gln)": "Q171",
+  "Motif": "PNLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q9Y2B1",
+  "Position of Q (Gln)": "Q324",
+  "Motif": "ALLQ↓SD"
+ },
+ {
+  "Uniprot ID": "Q9Y2B4",
+  "Position of Q (Gln)": "Q134",
+  "Motif": "SQVQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q9Y2B5",
+  "Position of Q (Gln)": "Q615",
+  "Motif": "TSLQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q9Y2G0",
+  "Position of Q (Gln)": "Q771",
+  "Motif": "SLLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9Y2G9",
+  "Position of Q (Gln)": "Q809",
+  "Motif": "VSLQ↓AD"
+ },
+ {
+  "Uniprot ID": "Q9Y2I9",
+  "Position of Q (Gln)": "Q816",
+  "Motif": "SAVQ↓AK"
+ },
+ {
+  "Uniprot ID": "Q9Y2P5",
+  "Position of Q (Gln)": "Q243",
+  "Motif": "PKLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q9Y2S7",
+  "Position of Q (Gln)": "Q324",
+  "Motif": "VSLQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q9Y2T2",
+  "Position of Q (Gln)": "Q361",
+  "Motif": "VNLQ↓SG"
+ },
+ {
+  "Uniprot ID": "Q9Y2V3",
+  "Position of Q (Gln)": "Q258",
+  "Motif": "TALQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q9Y2V7",
+  "Position of Q (Gln)": "Q123\/Q140",
+  "Motif": "SRLQ↓AA\/TKLQ↓SE"
+ },
+ {
+  "Uniprot ID": "Q9Y316",
+  "Position of Q (Gln)": "Q36",
+  "Motif": "SQVQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q9Y336",
+  "Position of Q (Gln)": "Q338",
+  "Motif": "VSLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9Y3Y2",
+  "Position of Q (Gln)": "Q66",
+  "Motif": "PSVQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9Y485",
+  "Position of Q (Gln)": "Q938",
+  "Motif": "ANLQ↓ST"
+ },
+ {
+  "Uniprot ID": "Q9Y490",
+  "Position of Q (Gln)": "Q1969",
+  "Motif": "AALQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q9Y493",
+  "Position of Q (Gln)": "Q1346\/Q2403",
+  "Motif": "SSLQ↓SS\/VQLQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q9Y4D8",
+  "Position of Q (Gln)": "Q477",
+  "Motif": "SSLQ↓GE"
+ },
+ {
+  "Uniprot ID": "Q9Y4F3",
+  "Position of Q (Gln)": "Q1646",
+  "Motif": "VILQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q9Y4G6",
+  "Position of Q (Gln)": "Q1970",
+  "Motif": "SALQ↓AG"
+ },
+ {
+  "Uniprot ID": "Q9Y4I1",
+  "Position of Q (Gln)": "Q395\/Q1354",
+  "Motif": "SKLQ↓AT\/SQLQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q9Y4K4",
+  "Position of Q (Gln)": "Q753",
+  "Motif": "VNLQ↓GK"
+ },
+ {
+  "Uniprot ID": "Q9Y520",
+  "Position of Q (Gln)": "Q147",
+  "Motif": "PSLQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9Y5B0",
+  "Position of Q (Gln)": "Q135",
+  "Motif": "TQLQ↓SK"
+ },
+ {
+  "Uniprot ID": "Q9Y5B6",
+  "Position of Q (Gln)": "Q327",
+  "Motif": "PQVQ↓AS"
+ },
+ {
+  "Uniprot ID": "Q9Y5G8",
+  "Position of Q (Gln)": "Q305",
+  "Motif": "STLQ↓SL"
+ },
+ {
+  "Uniprot ID": "Q9Y5M1",
+  "Position of Q (Gln)": "Q97",
+  "Motif": "PSVQ↓AQ"
+ },
+ {
+  "Uniprot ID": "Q9Y5R5",
+  "Position of Q (Gln)": "Q368",
+  "Motif": "TSVQ↓AL"
+ },
+ {
+  "Uniprot ID": "Q9Y5W9",
+  "Position of Q (Gln)": "Q245",
+  "Motif": "STLQ↓SV"
+ },
+ {
+  "Uniprot ID": "Q9Y623",
+  "Position of Q (Gln)": "Q1095",
+  "Motif": "SNLQ↓GK"
+ },
+ {
+  "Uniprot ID": "Q9Y6D6",
+  "Position of Q (Gln)": "Q173",
+  "Motif": "TVLQ↓AV"
+ },
+ {
+  "Uniprot ID": "Q9Y6D9",
+  "Position of Q (Gln)": "Q565",
+  "Motif": "SQLQ↓AE"
+ },
+ {
+  "Uniprot ID": "Q9Y6I8",
+  "Position of Q (Gln)": "Q183",
+  "Motif": "PSLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9Y6N6",
+  "Position of Q (Gln)": "Q1326",
+  "Motif": "SSVQ↓AA"
+ },
+ {
+  "Uniprot ID": "Q9Y6Q2",
+  "Position of Q (Gln)": "Q19",
+  "Motif": "PAVQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9Y6R4",
+  "Position of Q (Gln)": "Q372\/Q951",
+  "Motif": "PSLQ↓AL\/VVMQ↓SA"
+ },
+ {
+  "Uniprot ID": "Q9Y6R7",
+  "Position of Q (Gln)": "Q204",
+  "Motif": "AQLQ↓SS"
+ },
+ {
+  "Uniprot ID": "Q9Y6V0",
+  "Position of Q (Gln)": "Q784",
+  "Motif": "SKVQ↓SQ"
+ },
+ {
+  "Uniprot ID": "Q9Y6W3",
+  "Position of Q (Gln)": "Q72",
+  "Motif": "SAVQ↓SK"
+ }
+]

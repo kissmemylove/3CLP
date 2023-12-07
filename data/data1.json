@@ -1,0 +1,100 @@
+[
+ {
+  "Genus": "Alphacoronavirus",
+  "Species": "Bat coronavirus CDPHE15",
+  "Accessionnumber": "YP_008439200.1",
+  "Definition": "replicase polyprotein 1ab [Bat coronavirus CDPHE15\/USA\/2006]",
+  "Cleavagesites": "replicase polyprotein 1ab [Bat coronavirus CDPHE15\/USA\/2006]\n1..110=nsp1&111..896=nsp2&897..2558=nsp3&2559..3041=nsp4&3042..3344=3C-like proteinase nsp5&3345..3621=nsp6&3622..3704=nsp7&3705..3899=nsp8&3900..4007=nsp9&4008..4142=nsp10&4143..5070=nsp12&5071..5667=nsp13&5668..6186=nsp14&6187..6525=nsp15&6526..6825=nsp16"
+ },
+ {
+  "Genus": "Alphacoronavirus",
+  "Species": "Human coronavirus 229E",
+  "Accessionnumber": "AGT21366.1",
+  "Definition": "replicase polyprotein 1ab [Human coronavirus 229E]",
+  "Cleavagesites": "replicase polyprotein 1ab [Human coronavirus 229E]\n1..110=nsp1&111..897=nsp2&898..2488=nsp3&2489..2970=nsp4&2971..3272=3C-like proteinase; nsp5&3273..3551=nsp6&3552..3634=nsp7&3635..3829=nsp8&3830..3938=nsp9&3939..4073=nsp10&4074..5000=nsp12&5001..5597=nsp13&5598..6115=nsp14&6116..6463=nsp15&6464..6763=nsp16"
+ },
+ {
+  "Genus": "Alphacoronavirus",
+  "Species": "Human coronavirus NL63",
+  "Accessionnumber": "AGT51393.1",
+  "Definition": "replicase polyprotein 1ab [Human coronavirus NL63]",
+  "Cleavagesites": "replicase polyprotein 1ab [Human coronavirus NL63]\n1..110=nsp1&111..898=nsp2&899..2461=nsp3&2462..2939=nsp4&2940..3242=3C-like proteinase nsp5&3243..3521=nsp6&3522..3604=nsp7&3605..3799=nsp8&3800..3908=nsp9&3909..4043=nsp10&4044..4970=nsp12&4971..5567=nsp13&5568..6085=nsp14&6086..6429=nsp15&6430..6729=nsp16"
+ },
+ {
+  "Genus": "Alphacoronavirus",
+  "Species": "Alphacoronavirus 1",
+  "Accessionnumber": "AGT52079.1",
+  "Definition": "ORF1ab polyprotein [Feline coronavirus]",
+  "Cleavagesites": "ORF1ab polyprotein [Feline coronavirus]\n1..110=nsp1&111..879=nsp2&880..2378=nsp3&2379..2868=nsp4&2869..3170=3C-like proteinase nsp5&3171..3464=nsp6&3465..3547=nsp7&3548..3742=nsp8&3743..3853=nsp9&3854..3988=nsp10&3989..4917=RNA-directed RNA polymerase nsp12&4918..5516=helicase nsp13&5517..6035=exoribonuclease nsp14&6036..6374=uridylate-specific endoribonuclease nsp15&6375..6674=2'-O-methyl transferase nsp16"
+ },
+ {
+  "Genus": "Betacoronavirus",
+  "Species": "Betacoronavirus 1",
+  "Accessionnumber": "YP_009555238.1",
+  "Definition": "ORF1ab polyprotein [Human coronavirus OC43]",
+  "Cleavagesites": "ORF1ab polyprotein [Human coronavirus OC43]\n1..246=leader protein&247..851=MHV p65-like protein&852..2750=PLpro&2751..3246=nsp4&3247..3549=3C-like proteinase&3550..3836=nsp6&3837..3925=nsp7&3926..4122=nsp8&4123..4232=nsp9&4233..4369=nsp10&4370..5297=RNA-dependent RNA polymerase&5298..5900=Hel&5901..6421=3' to 5' exonuclease&6422..6796=nsp15&6797..7095=2'-O-MTase"
+ },
+ {
+  "Genus": "Betacoronavirus",
+  "Species": "Human coronavirus HKU1",
+  "Accessionnumber": "AGW27879.1",
+  "Definition": "replicase polyprotein 1ab [Human coronavirus HKU1]",
+  "Cleavagesites": "replicase polyprotein 1ab [Human coronavirus HKU1]\n1..222=nsp1&223..809=nsp2&810..2873=nsp3&2874..3369=nsp4&3370..3672=nsp5&3673..3959=nsp6&3960..4048=nsp7&4049..4245=nsp8&4246..4355=nsp9&4356..4492=nsp10&4493..5420=nsp12&5421..6023=nsp13&6024..6544=nsp14&6545..6918=nsp15&6919..7217=nsp16"
+ },
+ {
+  "Genus": "Betacoronavirus",
+  "Species": "Murine coronavirus",
+  "Accessionnumber": "NP_045299.2",
+  "Definition": "ORF1ab polyprotein [Murine hepatitis virus]",
+  "Cleavagesites": "ORF1ab polyprotein [Murine hepatitis virus]\n1..247=leader protein&248..832=nsp2&833..3141=PLpro&3142..3333=nsp4&3334..3636=3C-like proteinase&3637..3923=nsp6&3924..4012=nsp7&4013..4209=nsp8&4210..4319=nsp9&4320..4456=nsp10&4457..5384=RNA-dependent RNA polymerase&5385..5984=Hel&5985..6505=3' to 5' exonuclease&6506..6879=NendoU&6880..7178=2'-O-MT"
+ },
+ {
+  "Genus": "Betacoronavirus",
+  "Species": "Hedgehog coronavirus 1",
+  "Accessionnumber": "YP_009513008.1",
+  "Definition": "ORF1ab polyprotein [Betacoronavirus Erinaceus\/VMC\/DEU\/2012]",
+  "Cleavagesites": "ORF1ab polyprotein [Betacoronavirus Erinaceus\/VMC\/DEU\/2012]\n1..200=nsp1&201..859=nsp2&860..2805=nsp3&2806..3310=nsp4&3311..3616=nsp5&3617..3908=nsp6&3909..3991=nsp7&3992..4190=nsp8&4191..4300=nsp9&4301..4440=nsp10&4441..5374=nsp12&4441..4454=nsp11&5375..5972=nsp13&5973..6496=nsp14&6497..6839=nsp15&6840..7150=nsp16"
+ },
+ {
+  "Genus": "Betacoronavirus",
+  "Species": "Middle East respiratory syndrome-related coronavirus",
+  "Accessionnumber": "AMO03400.1",
+  "Definition": "polyprotein 1ab [Middle East respiratory syndrome-related coronavirus]",
+  "Cleavagesites": "polyprotein 1ab [Middle East respiratory syndrome-related coronavirus]\n1..193=nsp1&194..853=nsp2&854..2739=nsp3&2740..3247=nsp4&3248..3553=nsp5&3554..3845=nsp6&3846..3928=nsp7&3929..4127=nsp8&4128..4237=nsp9&4238..4377=nsp10&4378..5310=nsp12&5311..5908=nsp13&5909..6432=nsp14&6433..6775=nsp15&6776..7078=nsp16"
+ },
+ {
+  "Genus": "Betacoronavirus",
+  "Species": "Pipistrellus bat coronavirus HKU5",
+  "Accessionnumber": "YP_001039961.1",
+  "Definition": "ORF1ab polyprotein [Pipistrellus bat coronavirus HKU5]",
+  "Cleavagesites": "ORF1ab polyprotein [Pipistrellus bat coronavirus HKU5]\n1..195=nsp1&196..851=nsp2&852..2831=nsp3&2832..3338=nsp4&3339..3644=nsp5&3645..3936=nsp6&3937..4019=nsp7&4020..4218=nsp8&4219..4328=nsp9&4329..4467=nsp10&4468..5401=nsp12&5402..5999=nsp13&6000..6523=nsp14&6524..6874=nsp15&6875..7182=nsp16"
+ },
+ {
+  "Genus": "Betacoronavirus",
+  "Species": "Tylonycteris bat coronavirus HKU4",
+  "Accessionnumber": "YP_001039952.1",
+  "Definition": "ORF1ab polyprotein [Tylonycteris bat coronavirus HKU4]",
+  "Cleavagesites": "ORF1ab polyprotein [Tylonycteris bat coronavirus HKU4]\n1..195=nsp1&196..847=nsp2&848..2784=nsp3&2785..3291=nsp4&3292..3597=nsp5&3598..3889=nsp6&3890..3972=nsp7&3973..4171=nsp8&4172..4281=nsp9&4282..4420=nsp10&4421..5354=nsp12&5355..5952=nsp13&5953..6475=nsp14&6476..6817=nsp15&6818..7119=nsp16"
+ },
+ {
+  "Genus": "Betacoronavirus",
+  "Species": "Rousettus bat coronavirus HKU9",
+  "Accessionnumber": "YP_001039970.1",
+  "Definition": "orf1ab polyprotein [Rousettus bat coronavirus HKU9]",
+  "Cleavagesites": "orf1ab polyprotein [Rousettus bat coronavirus HKU9]\n1..175=leader protein&176..772=nsp2&773..2609=PL-PRO&2610..3103=nsp4&3104..3409=3C-like proteinase&3410..3699=nsp6&3700..3782=nsp7&3783..3982=nsp8&3983..4094=nsp9&4095..4233=nsp10&4234..5165=Pol&5166..5766=Hel&5767..6296=ExoN&6297..6633=NendoU&6634..6930=2'-O-methyltransferase"
+ },
+ {
+  "Genus": "Betacoronavirus",
+  "Species": "Severe acute respiratory syndrome-related coronavirus",
+  "Accessionnumber": "YP_009724389.1",
+  "Definition": "ORF1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]",
+  "Cleavagesites": "ORF1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]\n1..180=leader protein&181..818=nsp2&819..2763=nsp3&2764..3263=nsp4&3264..3569=3C-like proteinase&3570..3859=nsp6&3860..3942=nsp7&3943..4140=nsp8&4141..4253=nsp9&4254..4392=nsp10&4393..5324=RNA-dependent RNA polymerase&5325..5925=helicase&5926..6452=3'-to-5' exonuclease&6453..6798=endoRNAse&6799..7096=2'-O-ribose methyltransferase"
+ },
+ {
+  "Genus": "Gammacoronavirus",
+  "Species": "Avian coronavirus",
+  "Accessionnumber": "NP_066134.1",
+  "Definition": "ORF1ab polyprotein [Infectious bronchitis virus]",
+  "Cleavagesites": "ORF1ab polyprotein [Infectious bronchitis virus]\n1..673=leader protein p87&674..2779=coronavirus nsp1 (HD1)&2780..3086=coronavirus nsp2 (3CL-Pro)&3087..3379=coronavirus nsp3 (HD2)&3380..3462=coronavirus nsp4&3463..3672=coronavirus nsp5&3673..3783=coronavirus nsp6&3784..3928=coronavirus nsp7 (GLF)&3929..4868=RNA-dependent RNA polymerase&4869..5468=coronavirus nsp10&5469..5989=coronavirus nsp11&5990..6327=coronavirus nsp12&6328..6629=coronavirus nsp13"
+ }
+]

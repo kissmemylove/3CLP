@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8" />
+		<!-- 新 Bootstrap5 核心 CSS 文件 -->
+		<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
+		<link rel="stylesheet" type="text/css" href="../css/mycss.css">
+		<script type="text/javascript" src="https://api.map.baidu.com/api?v=1.0&&type=webgl&ak=mpAtSdEEa0kg8Rk8dIvEXGCOODcplAch"></script>
+		<!--  popper.min.js 用于弹窗、提示、下拉菜单 -->
+		<script src="https://cdn.staticfile.org/popper.js/2.9.3/umd/popper.min.js"></script> 
+		<!-- 最新的 Bootstrap5 核心 JavaScript 文件 -->
+		<script src="../js/bootstrap.js"></script>
+		<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+		<script type="text/javascript" src="../js/myjs.js"></script>
+		<title>3CLP</title>
+	</head>
+	<body>
+		<div id="dataDiv" class="content" >
+			<div id="data1Div" style="display: none; ">
+									<p style=" font-size: 20px;">This table shows the known cleavage sites of the 3CL protease on polyprotein ORF1ab which were obtained from 14 coronavirus species in three genera.
+			</p>
+									<table class="table" id="data-table1" rules=none frame=hsides>
+									    <thead>
+									        <tr >
+									            <th>Genus</th>
+									            <th>Species</th>
+									            <th>Accession number</th>
+												<th>Definition</th>
+												<th style="width: 500px;">Cleavage sites</th>
+			
+									        </tr>
+									    </thead>
+									    <tbody></tbody>
+									</table>
+				</div>
+								<div id="data2Div" style="display: none; ">
+									<p style="font-size: 20px;">This table shows the potential cleavage sites on human proteins by the coronavirus 3CL protease predicted by 3CLP. A cutoff of 0.95 was used here.</p>
+									<table class="table" id="data-table2" rules=none frame=hsides>
+									    <thead>
+									        <tr >
+									            <th >Entry</th>
+									            <th >EntryName</th>
+									            <th >Position of Q(Gln)</th>
+												<th >Probability</th>
+									        </tr>
+											<tbody>
+												<tr>
+												      <td>P53990</td>
+												      <td>IST1_HUMAN</td>
+												      <td>Q111</td>
+													  <td>1.000</td>
+												</tr>
+												<tr>
+												      <td>Q86WT6</td>
+												      <td>TRI69_HUMAN</td>
+												      <td>Q258</td>
+													  <td>0.980</td>
+												</tr>
+												<tr>
+												      <td>Q9NQW1</td>
+												      <td>SC31B_HUMAN</td>
+												      <td>Q460</td>
+													  <td>0.990</td>
+												</tr>
+												<tr>
+												      <td>A2VDJ0</td>
+												      <td>T131L_HUMAN</td>
+												      <td>Q212</td>
+													  <td>0.960</td>
+												</tr>
+												<tr>
+												      <td>A2VDJ0</td>
+												      <td>T131L_HUMAN</td>
+												      <td>Q220</td>
+													  <td>0.980</td>
+												</tr>
+											</tbody>
+									    </thead>
+										</table>
+								</div>
+								<div id="data3Div" style="display: none;">
+									<p style="font-size: 20px">The training data for 3CLP, which included 265 positive and negative cleavage motifs respectively,  were available for downloading <a href="data/Training data for 3CLP" download='Training data for 3CLP' style="cursor:pointer; color: black;font-weight: bold"><u>here</u></a>  . For more details about the training data, please refer to our study.
+			</p>
+								</div>
+		</div>
+		<script>
+			
+		</script>
+	</body>
+</html>

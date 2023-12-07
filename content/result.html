@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8" />
+		<!-- 新 Bootstrap5 核心 CSS 文件 -->
+		<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
+		<link rel="stylesheet" type="text/css" href="../css/mycss.css">
+		<script type="text/javascript" src="https://api.map.baidu.com/api?v=1.0&&type=webgl&ak=mpAtSdEEa0kg8Rk8dIvEXGCOODcplAch"></script>
+		<!--  popper.min.js 用于弹窗、提示、下拉菜单 -->
+		<script src="https://cdn.staticfile.org/popper.js/2.9.3/umd/popper.min.js"></script> 
+		<!-- 最新的 Bootstrap5 核心 JavaScript 文件 -->
+		<script src="../js/bootstrap.js"></script>
+		<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+		<script type="text/javascript" src="../js/myjs.js"></script>
+		<title>3CLP</title>
+		
+	</head>
+	<body>
+		
+			
+			<div class="content">
+				<div class="waitDiv" style="height:70px; text-align: center; display: none;">
+					<h3 style="line-height: 70px;">Your job is being processed.......Please wait for several seconds.</h3>
+				</div>
+				<div class="resultDiv" style="position: relative;">
+					<div id="quesionDiv"style="background-color: white; width:320px; font-size: 20px;text-align: center;position:absolute; margin-top: 100px;margin-left: 300px; display: none;" >P1 position is highly conserved with Q(Glutamine).</div>
+					</div>
+					<p style="font-size: 20px;">The predicted cleavage sites are listed in the following table:</p>
+					<table class="table" id="result-table" rules=none frame=hsides>
+					    <thead>
+					        <tr >
+					            <th >Protein</th>
+					           
+					            <th >Position of Q(Gln)<a style="cursor:pointer;" id="question">?</a></th>
+								 <th >Motif</th>
+								<th >Probability</th>
+					        </tr>
+							<tbody>
+								<tr>
+								      <td>SEQ1</td>
+								      <td>Q271</td>
+								      <td>FTLQ↓SD</td>
+									  <td>0.90</td>
+								</tr>
+								<tr>
+								      <td>SEQ1</td>
+								      <td>Q350</td>
+								      <td>PVPQ↓SP</td>
+									  <td>0.68</td>
+								</tr>
+								<tr>
+								      <td>SEQ1</td>
+								      <td>Q371</td>
+								      <td>PALQ↓AT</td>
+									  <td>0.99</td>
+								</tr>
+								<tr>
+								      <td>SEQ1</td>
+								      <td>Q400</td>
+								      <td>ASLQ↓SI</td>
+									  <td>1.00</td>
+								</tr>
+								<tr>
+								      <td>SEQ1</td>
+								      <td>Q618</td>
+								      <td>CEIQ↓AT</td>
+									  <td>0.64</td>
+								</tr>
+							</tbody>
+					    </thead>
+						</table>
+					<p style="font-size: 20px;">All predicted results were available for downloading <a href="data/UserDownload_PredictResult" download="UserDownload_PredictResult" style="cursor:pointer; color: black;font-weight: bold"><u>here</u></a>.</p>
+					
+				</div>
+				
+				
+			
+			<script>
+				
+				document.getElementById("question").addEventListener("click", function() {
+					var questionDiv =document.getElementById("quesionDiv");
+					if (questionDiv.style.display === "none") {
+					        questionDiv.style.display = "block"; // 显示 div
+					      } else {
+					        questionDiv.style.display = "none"; // 隐藏 div
+					      }
+				  
+				   
+				});
+				// var question =document.getElementById("question");
+				// question.addEventListener("focus",function(){
+				
+				// })
+				
+			</script>
+			
+			
+	</body>
+</html>

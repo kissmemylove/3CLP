@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8" />
+		<!-- 新 Bootstrap5 核心 CSS 文件 -->
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+		<link rel="stylesheet" type="text/css" href="css/mycss.css">
+		<script type="text/javascript" src="https://api.map.baidu.com/api?v=1.0&&type=webgl&ak=mpAtSdEEa0kg8Rk8dIvEXGCOODcplAch"></script>
+		<!--  popper.min.js 用于弹窗、提示、下拉菜单 -->
+		<script src="https://cdn.staticfile.org/popper.js/2.9.3/umd/popper.min.js"></script> 
+		<!-- 最新的 Bootstrap5 核心 JavaScript 文件 -->
+		<script src="js/bootstrap.js"></script>
+		<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+		<script type="text/javascript" src="js/myjs.js"></script>
+		<title>3CLP</title>
+		
+	</head>
+	<body>
+		<div >
+			<div style="text-align: center;">
+				<header>
+					
+					<span class="headerspan" style="font-size: 50px;line-height: 100px;">3CLP :</span><span class="headerspan" style="font-size:35px"> an online tool for predicting coronavirus 3CL protease cleavage sites</span>
+				</header>
+				<nav class="navbar navbar-expand-sm  justify-content-center" >
+				  <!-- Links -->
+				  <ul class="navbar-nav" >
+				    <li class="nav-item" >
+				      <a class="nav-link" href="#" id="home" >Home</a>
+				    </li>
+				   <li class="nav-item dropdown">
+				     <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-bs-toggle="dropdown">
+				       Data
+				     </a>
+				     <div class="dropdown-menu">
+				       <a class="dropdown-item" href="#" id="data1">Known cleavage sites</a>
+				       <a class="dropdown-item" href="#"id="data2">Potential cleavage sites on human proteins</a>
+				       <a class="dropdown-item" href="#"id="data3">Training data for 3CLP</a>
+				     </div>
+				   </li>
+					<li class="nav-item">
+					  <a class="nav-link" href="#" id="readme">Readme</a>
+					</li>
+					<li class="nav-item">
+					  <a class="nav-link"  href="#" id="contact" >Contact us</a>
+					</li>
+				  </ul>
+				</nav>
+			</div>
+		</div>
+		<div class="container-fluid mt-3 " style="border: 10px solid  white;">
+			<iframe id="myiframe" src="./content/home.html"  style="width: 1400px;height:600px; margin-left:12%"></iframe>
+		</div>
+		
+			
+			
+	</body>
+	<script>
+		var home=document.querySelector("#home")
+		home.addEventListener('click',function(){
+			
+			$("iframe").attr("src",'./content/home.html')
+			
+		})
+		var readme=document.querySelector("#readme")
+		readme.addEventListener('click',function(){
+			
+			$("iframe").attr("src",'./content/readme.html')
+			
+			
+		})
+		var contact=document.querySelector("#contact")
+		contact.addEventListener('click',function(){
+			
+			$("iframe").attr("src",'./content/contactus.html')
+			
+		})
+		// var navbardrop=document.querySelector("#navbardrop")
+		// navbardrop.addEventListener('click',function(){
+			
+		// 	$("iframe").attr("src",'./data.html')
+			
+		// })
+		
+		var data1=document.querySelector("#data1")
+		data1.addEventListener('click',function(){
+			var iframe=document.getElementById("myiframe");
+			$("iframe").attr("src",'./content/data.html')
+			iframe.addEventListener('load',function(){
+				var a=document.querySelector("iframe");
+				var b=a.contentWindow.document;
+				b.getElementById("data2Div").style.display="none";
+				b.getElementById("data1Div").style.display="block";
+				b.getElementById("data3Div").style.display="none";
+			})
+						
+		})
+		var data2=document.querySelector("#data2")
+		data2.addEventListener('click',function(){
+			var iframe=document.getElementById("myiframe");
+			$("iframe").attr("src",'./content/data.html')
+			iframe.addEventListener('load',function(){
+				var a=document.querySelector("iframe");
+				var b=a.contentWindow.document;
+				b.getElementById("data1Div").style.display="none";
+				b.getElementById("data2Div").style.display="block";
+				b.getElementById("data3Div").style.display="none";
+			})
+						
+		})
+		
+		var data3=document.querySelector("#data3")
+		data3.addEventListener('click',function(){
+			var iframe=document.getElementById("myiframe");
+			$("iframe").attr("src",'./content/data.html')
+			iframe.addEventListener('load',function(){
+				var a=document.querySelector("iframe");
+				var b=a.contentWindow.document;
+				b.getElementById("data1Div").style.display="none";
+				b.getElementById("data3Div").style.display="block";
+				b.getElementById("data2Div").style.display="none";
+			})
+						
+		})
+		
+	</script>	
+</html>

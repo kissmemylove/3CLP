@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8" />
+		<!-- 新 Bootstrap5 核心 CSS 文件 -->
+		<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
+		<link rel="stylesheet" type="text/css" href="../css/mycss.css">
+		<script type="text/javascript" src="https://api.map.baidu.com/api?v=1.0&&type=webgl&ak=mpAtSdEEa0kg8Rk8dIvEXGCOODcplAch"></script>
+		<!--  popper.min.js 用于弹窗、提示、下拉菜单 -->
+		<script src="https://cdn.staticfile.org/popper.js/2.9.3/umd/popper.min.js"></script> 
+		<!-- 最新的 Bootstrap5 核心 JavaScript 文件 -->
+		<script src="../js/bootstrap.js"></script>
+		<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+		<script type="text/javascript" src="../js/myjs.js"></script>
+		<title>3CLP</title>
+	</head>
+	<body>
+		<div id="contactusDiv" class="content">
+				<div class="row">
+					<div class="col-sm-6 col-md-5 col-lg-6 col-xl-7 p-3  text-white">
+						<div id="map">
+							<script>
+							    // 创建地图实例
+							    var map = new BMapGL.Map("map");
+							
+							    //设置中心点坐标 BMap命名空间下的Point类来创建一个坐标点
+							    var point = new BMapGL.Point(112.595400,26.90344);
+							
+							    //地图初始化 同时设置地图的级别(3-19)
+							    map.centerAndZoom(point, 15);
+							
+							    //鼠标滚轮 开启鼠标滚轮缩放
+							    map.enableScrollWheelZoom(true);
+							
+							    //添加标注
+							    var marker = new BMapGL.Marker(point);
+							    map.addOverlay(marker); // 将标注添加到地图中
+							
+							    //添加监听事件
+							    marker.addEventListener("click", function() {
+							        alert("您点击了标注");
+							    });
+							</script>
+						</div>
+						
+					</div>
+					<div class="col-sm-4 col-md-6 col-lg-4 col-xl-4 p-3 ">
+						<div>
+							<p style="font-size: 20px;">3CLP is developed by the Penglab at the bioinformatics Center, College of Biology, Hunan Provincial Key Laboratory of Medical Virology, Hunan University, Changsha, China
+																		
+							</p>
+							<p style="font-size: 20px;">
+																		Any question please contact Dr. Yousong Peng </p>
+							<p style="font-size: 20px;">Email: pys2013@hnu.edu.cn </p>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+			
+		</div>
+	</body>
+</html>
